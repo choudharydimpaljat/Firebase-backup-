@@ -2,7 +2,7 @@ name: Firebase Backup
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,12 +14,17 @@ jobs:
 
       - name: Download Firebase JSON
         run: |
-          curl https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json > backup.json
+          mkdir -p backups
+          curl https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json > backups/backup_$(date +%s).json
 
-      - name: Commit backup
+      - name: Keep only last 10 backups
+        run: |
+          ls -t backups | tail -n +11 | xargs -I {} rm backups/{}
+
+      - name: Commit changes
         run: |
           git config --global user.name "backup-bot"
           git config --global user.email "backup@github.com"
-          git add backup.json
-          git commit -m "Firebase backup"
+          git add .
+          git commit -m "Auto backup"
           git push
