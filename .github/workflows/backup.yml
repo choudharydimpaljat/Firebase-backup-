@@ -1,0 +1,25 @@
+name: Firebase Backup
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download Firebase JSON
+        run: |
+          curl https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json > backup.json
+
+      - name: Commit backup
+        run: |
+          git config --global user.name "backup-bot"
+          git config --global user.email "backup@github.com"
+          git add backup.json
+          git commit -m "Firebase backup"
+          git push
