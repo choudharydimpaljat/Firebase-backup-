@@ -5491,6 +5491,13 @@
             "expirydate": "30-03-2026",
             "key": "9HJP0R3U0ETP",
             "user": "Sagar Sahukar"
+        },
+        {
+            "Allowoffline": false,
+            "device_id": "7ed91354bdbc883e",
+            "expirydate": "30-03-2026",
+            "key": "QXOVC1844I6H",
+            "user": "Sagar shahukar"
         }
     ],
     "FaceAuthGalleryKyc": [
@@ -7593,6 +7600,13 @@
             "expirydate": "30-03-2026",
             "key": "U09AXQGYWT6D",
             "user": "Aryan"
+        },
+        {
+            "Allowoffline": false,
+            "device_id": "407ebb5209cc0be6",
+            "expirydate": "30-03-2026",
+            "key": "Y98I61QCKORT",
+            "user": "Aryan 2"
         }
     ]
 }
