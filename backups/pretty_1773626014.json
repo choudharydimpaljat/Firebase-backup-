@@ -1113,7 +1113,7 @@
         {
             "Allowoffline": false,
             "device_id": "0ca85becc41d97d5",
-            "expirydate": "20-03-2026",
+            "expirydate": "31-03-2026",
             "key": "9UNF637KBH1B",
             "user": "R y"
         },
@@ -2296,7 +2296,7 @@
         {
             "Allowoffline": false,
             "device_id": "5abea3f5b9b77ada",
-            "expirydate": "08-03-2026",
+            "expirydate": "31-03-2026",
             "key": "54748yb68",
             "user": "rohit"
         },
@@ -4522,7 +4522,7 @@
         {
             "Allowoffline": false,
             "device_id": "9907794681b23b1f",
-            "expirydate": "01-03-2026",
+            "expirydate": "31-03-2026",
             "key": "V5B8ISB8WELR",
             "user": "Yadav  G"
         },
@@ -7541,7 +7541,7 @@
         {
             "Allowoffline": false,
             "device_id": "cfe5de405ad1c9d1",
-            "expirydate": "31-03-2026",
+            "expirydate": "31-03-20",
             "key": "M74YGT0JDO2O",
             "user": "Boby gupta"
         },
@@ -7607,6 +7607,13 @@
             "expirydate": "30-03-2026",
             "key": "Y98I61QCKORT",
             "user": "Aryan 2"
+        },
+        {
+            "Allowoffline": false,
+            "device_id": "eb84fd89e143f148",
+            "expirydate": "31-03-2026",
+            "key": "G2RN7INQDD6A",
+            "user": "Boby gupta"
         }
     ]
 }
