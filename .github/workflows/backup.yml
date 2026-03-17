@@ -1,8 +1,13 @@
 name: Firebase Backup
 
 on:
+  schedule:
+    - cron: "0 */6 * * *"   # (optional) har 6 ghante auto backup
+
+  workflow_dispatch:        # 🔥 ye add karo → Run button ke liye
+
   repository_dispatch:
-    types: [backup]
+    types: [backup]         # 🔥 admin panel trigger ke liye
 
 jobs:
   backup:
