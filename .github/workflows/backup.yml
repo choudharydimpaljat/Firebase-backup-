@@ -2,12 +2,12 @@ name: Firebase Backup
 
 on:
   schedule:
-    - cron: "0 */23 * * *"   # (optional) har 6 ghante auto backup
+    - cron: "0 */23 * * *"
 
-  workflow_dispatch:        # 🔥 ye add karo → Run button ke liye
+  workflow_dispatch:
 
   repository_dispatch:
-    types: [backup]         # 🔥 admin panel trigger ke liye
+    types: [backup]
 
 jobs:
   backup:
@@ -16,27 +16,35 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Fetch Firebase JSON
+      # 🔥 Pretty JSON (IMPORTANT FIX)
+      - name: Fetch & Format Firebase JSON
         run: |
-          curl -o backup.json "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json"
+          curl "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json" | jq '.' > backup.json
 
       - name: Create backup folder
         run: mkdir -p backups
 
-      - name: Save with timestamp
+      # 🔥 Unique timestamp (no overwrite)
+      - name: Save backup file
         run: |
           DATE=$(date +'%Y-%m-%d_%H-%M-%S')
           cp backup.json backups/backup_$DATE.json
 
+      # 🔥 Ensure git detects all files
+      - name: Git Add All
+        run: git add .
+
+      # 🔥 Keep ONLY last 10 backups (FIXED)
       - name: Keep last 10 backups
         run: |
           cd backups
-          ls -t | tail -n +11 | xargs rm -f || true
+          ls -1t *.json | tail -n +11 | xargs rm -f || true
 
+      # 🔥 Commit safely
       - name: Commit & Push
         run: |
           git config --global user.name "backup-bot"
           git config --global user.email "backup@bot.com"
           git add backups/
-          git commit -m "Backup $(date)" || echo "No changes"
+          git commit -m "Backup $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
