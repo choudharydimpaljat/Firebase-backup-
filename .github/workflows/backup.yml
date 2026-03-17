@@ -1,33 +1,26 @@
 name: Firebase Backup
 
 on:
-  schedule:
-    - cron: "*/1 * * * *"
-  workflow_dispatch:
+  repository_dispatch:
+    types: [backup]
 
 jobs:
   backup:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Download Firebase JSON
+      - name: Create backup file
         run: |
           mkdir -p backups
-          
-          curl -s https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json > backups/minified_$(date +%s).json
-          
-          curl -s https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json | python -m json.tool > backups/pretty_$(date +%s).json
+          echo '${{ github.event.client_payload.data }}' > backups/backup_$(date +%Y-%m-%d_%H-%M-%S).json
 
-      - name: Keep only last 10 backups
+      - name: Commit & Push
         run: |
-          ls -t backups | tail -n +21 | xargs -I {} rm backups/{}
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "backup-bot"
-          git config --global user.email "backup@github.com"
-          git add backups
-          git commit -m "Auto backup" || echo "No changes"
+          git config user.name "backup-bot"
+          git config user.email "backup@bot.com"
+          git add backups/
+          git commit -m "Auto backup $(date)" || echo "No changes"
           git push
