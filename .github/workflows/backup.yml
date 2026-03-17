@@ -2,7 +2,7 @@ name: Firebase Backup
 
 on:
   repository_dispatch:
-    types: [backup]
+    types: [backup]   # 👈 admin panel se trigger
 
 jobs:
   backup:
@@ -12,10 +12,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Create backup file
+      - name: Fetch Firebase JSON
         run: |
           mkdir -p backups
-          echo '${{ github.event.client_payload.data }}' > backups/backup_$(date +%Y-%m-%d_%H-%M-%S).json
+          curl -o backups/temp.json "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json"
+
+      - name: Rename file with time
+        run: |
+          mv backups/temp.json backups/backup_$(date +%Y-%m-%d_%H-%M-%S).json
 
       - name: Commit & Push
         run: |
