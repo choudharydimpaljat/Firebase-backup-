@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0   # 🔥 IMPORTANT
+          fetch-depth: 0
 
       - name: Fetch & Format JSON
         run: |
@@ -25,24 +25,20 @@ jobs:
       - name: Create backup folder
         run: mkdir -p backups
 
-      - name: Commit & Push
-  run: |
-    export TZ="Asia/Kolkata"
-    git config --global user.name "backup-bot"
-    git config --global user.email "backup@bot.com"
-    git add backups/
-    git commit -m "Backup $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
-    git push
+      - name: Save backup
+        run: |
+          export TZ="Asia/Kolkata"
+          DATE=$(date +'%Y-%m-%d_%H-%M-%S')
+          cp backup.json backups/backup_$DATE.json
 
-      # 🔥 FIXED DELETE LOGIC
       - name: Keep last 10 backups
         run: |
           cd backups
           ls -1t *.json 2>/dev/null | tail -n +11 | xargs rm -f || true
 
-      # 🔥 FORCE ADD ALL FILES
       - name: Commit & Push
         run: |
+          export TZ="Asia/Kolkata"
           git config --global user.name "backup-bot"
           git config --global user.email "backup@bot.com"
           git add backups/
