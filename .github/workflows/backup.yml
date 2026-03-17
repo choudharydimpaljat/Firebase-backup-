@@ -2,7 +2,7 @@ name: Firebase Backup
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # (optional) har 6 ghante auto backup
+    - cron: "0 */23 * * *"   # (optional) har 6 ghante auto backup
 
   workflow_dispatch:        # 🔥 ye add karo → Run button ke liye
 
