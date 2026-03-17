@@ -2195,17 +2195,10 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "aa3d0652b3e44e92",
-      "expirydate": "12-03-2026",
-      "key": "C3W0EOU8Y6EG",
-      "user": "Shubham Singh"
-    },
-    {
-      "Allowoffline": false,
-      "device_id": "3cb68fe50709e6ac",
-      "expirydate": "14-03-20",
-      "key": "2OXW83892KTC",
-      "user": "Cc"
+      "device_id": "Uu",
+      "expirydate": "01-04-2026",
+      "key": "WLAN2VBYXCIY",
+      "user": "Uu"
     }
   ],
   "FaceAuthGallery": [
@@ -2415,7 +2408,7 @@
     {
       "Allowoffline": false,
       "device_id": "b7fcd04f7c59af3d",
-      "expirydate": "01-04-2026",
+      "expirydate": "16-04-2026",
       "key": "opjat",
       "user": "op"
     },
@@ -10064,6 +10057,13 @@
       "expirydate": "02-04-2026",
       "key": "JREFWK9TMO3E",
       "user": "Dinesh Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "21839b3dff394e7c",
+      "expirydate": "02-04-2026",
+      "key": "HLZQY8FYJYYT",
+      "user": "Ali"
     }
   ]
 }
