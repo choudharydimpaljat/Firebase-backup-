@@ -2750,13 +2750,6 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "448043d1b4cb274e",
-      "expirydate": "21-01-2026",
-      "key": "M1ueheudh73536h",
-      "user": "Br user"
-    },
-    {
-      "Allowoffline": false,
       "device_id": "e43dd4005a7162c1",
       "expirydate": "04-03-2026",
       "key": "1S67WW2HO5IR",
@@ -7727,7 +7720,7 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "edfdfcc229e2a724",
+      "device_id": "d90db563ef9d619c",
       "expirydate": "31-03-2026",
       "key": "Naresh",
       "user": "Naresh"
@@ -7871,6 +7864,20 @@
       "expirydate": "02-04-2026",
       "key": "D7GNW5J66J7C",
       "user": "deepak kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "448043d1b4cb274e",
+      "expirydate": "02-04-2026",
+      "key": "M1ueheudh73536h",
+      "user": "Manohar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "8e6bbd856830a33e",
+      "expirydate": "01-04-2026",
+      "key": "8O78SPZT62XX",
+      "user": "Dharmendra kumar"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -8941,7 +8948,7 @@
     {
       "Allowoffline": false,
       "device_id": "448043d1b4cb274e",
-      "expirydate": "14-03-2026",
+      "expirydate": "02-04-2026",
       "key": "QXNSM33BLG15",
       "user": "Manohar"
     },
@@ -10098,6 +10105,34 @@
       "device_id": "2686077393be310e",
       "expirydate": "02-04-2026",
       "key": "TAUY4NIC2QWW",
+      "user": "Rishabh jain"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "Sir payment ker du",
+      "expirydate": "01-04-2026",
+      "key": "TKIP0G8CECZD",
+      "user": "Alok kumar 12"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "26a8d02b2bb1c8a5",
+      "expirydate": "02-04-2026",
+      "key": "QGWOE03TNLAH",
+      "user": "Alok Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "0fbe3c8decdff2d1",
+      "expirydate": "01-04-2026",
+      "key": "FLGWPDPJ2G8X",
+      "user": "Kundan kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "f8737cdf48936f61",
+      "expirydate": "02-04-2026",
+      "key": "RI6711GN8NYA",
       "user": "Rishabh jain"
     }
   ]
