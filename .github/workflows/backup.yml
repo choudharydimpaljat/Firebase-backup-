@@ -15,32 +15,28 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # 🔥 IMPORTANT
 
-      # 🔥 Pretty JSON (IMPORTANT FIX)
-      - name: Fetch & Format Firebase JSON
+      - name: Fetch & Format JSON
         run: |
           curl "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json" | jq '.' > backup.json
 
       - name: Create backup folder
         run: mkdir -p backups
 
-      # 🔥 Unique timestamp (no overwrite)
-      - name: Save backup file
+      - name: Save backup
         run: |
           DATE=$(date +'%Y-%m-%d_%H-%M-%S')
           cp backup.json backups/backup_$DATE.json
 
-      # 🔥 Ensure git detects all files
-      - name: Git Add All
-        run: git add .
-
-      # 🔥 Keep ONLY last 10 backups (FIXED)
+      # 🔥 FIXED DELETE LOGIC
       - name: Keep last 10 backups
         run: |
           cd backups
-          ls -1t *.json | tail -n +11 | xargs rm -f || true
+          ls -1t *.json 2>/dev/null | tail -n +11 | xargs rm -f || true
 
-      # 🔥 Commit safely
+      # 🔥 FORCE ADD ALL FILES
       - name: Commit & Push
         run: |
           git config --global user.name "backup-bot"
