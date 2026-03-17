@@ -14,28 +14,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ Full repo load
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
+      # ✅ Firebase se JSON + pretty format
       - name: Fetch & Format JSON
         run: |
           curl "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json" | jq '.' > backup.json
 
+      # ✅ Folder ensure
       - name: Create backup folder
         run: mkdir -p backups
 
+      # ✅ Unique file (NO overwrite)
       - name: Save backup
-  run: |
-    export TZ="Asia/Kolkata"
-    DATE=$(date +'%Y-%m-%d_%H-%M-%S')_$(date +%s%N | cut -b1-13)
-    cp backup.json backups/backup_$DATE.json
+        run: |
+          export TZ="Asia/Kolkata"
+          DATE=$(date +'%Y-%m-%d_%H-%M-%S')-$RANDOM
+          cp backup.json backups/backup_$DATE.json
 
+      # ✅ Last 10 hi rakho
       - name: Keep last 10 backups
         run: |
           cd backups
           ls -1t *.json 2>/dev/null | tail -n +11 | xargs rm -f || true
 
+      # ✅ Commit & push
       - name: Commit & Push
         run: |
           export TZ="Asia/Kolkata"
