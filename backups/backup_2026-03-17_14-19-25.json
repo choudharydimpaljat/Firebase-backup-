@@ -2192,13 +2192,6 @@
       "expirydate": "31-01-2030",
       "key": "opjat",
       "user": "omprakash"
-    },
-    {
-      "Allowoffline": false,
-      "device_id": "Uu",
-      "expirydate": "01-04-2026",
-      "key": "WLAN2VBYXCIY",
-      "user": "Uu"
     }
   ],
   "FaceAuthGallery": [
@@ -2408,7 +2401,7 @@
     {
       "Allowoffline": false,
       "device_id": "b7fcd04f7c59af3d",
-      "expirydate": "01-04-2026",
+      "expirydate": "16-04-2026",
       "key": "opjat",
       "user": "op"
     },
@@ -10057,6 +10050,13 @@
       "expirydate": "02-04-2026",
       "key": "JREFWK9TMO3E",
       "user": "Dinesh Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "21839b3dff394e7c",
+      "expirydate": "02-04-2026",
+      "key": "HLZQY8FYJYYT",
+      "user": "Ali"
     }
   ]
 }
