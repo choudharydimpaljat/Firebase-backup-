@@ -2,29 +2,36 @@ name: Firebase Backup
 
 on:
   repository_dispatch:
-    types: [backup]   # 👈 admin panel se trigger
+    types: [backup]
 
 jobs:
   backup:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Fetch Firebase JSON
         run: |
-          mkdir -p backups
-          curl -o backups/temp.json "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json"
+          curl -o backup.json "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json"
 
-      - name: Rename file with time
+      - name: Create backup folder
+        run: mkdir -p backups
+
+      - name: Save with timestamp
         run: |
-          mv backups/temp.json backups/backup_$(date +%Y-%m-%d_%H-%M-%S).json
+          DATE=$(date +'%Y-%m-%d_%H-%M-%S')
+          cp backup.json backups/backup_$DATE.json
+
+      - name: Keep last 10 backups
+        run: |
+          cd backups
+          ls -t | tail -n +11 | xargs rm -f || true
 
       - name: Commit & Push
         run: |
-          git config user.name "backup-bot"
-          git config user.email "backup@bot.com"
+          git config --global user.name "backup-bot"
+          git config --global user.email "backup@bot.com"
           git add backups/
-          git commit -m "Auto backup $(date)" || echo "No changes"
+          git commit -m "Backup $(date)" || echo "No changes"
           git push
