@@ -26,10 +26,10 @@ jobs:
         run: mkdir -p backups
 
       - name: Save backup
-        run: |
-          export TZ="Asia/Kolkata"
-          DATE=$(date +'%Y-%m-%d_%H-%M-%S')
-          cp backup.json backups/backup_$DATE.json
+  run: |
+    export TZ="Asia/Kolkata"
+    DATE=$(date +'%Y-%m-%d_%H-%M-%S')_$(date +%s%N | cut -b1-13)
+    cp backup.json backups/backup_$DATE.json
 
       - name: Keep last 10 backups
         run: |
