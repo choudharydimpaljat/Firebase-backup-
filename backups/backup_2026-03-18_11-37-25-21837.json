@@ -5075,7 +5075,7 @@
     {
       "Allowoffline": true,
       "device_id": "853e56926d4f74c1",
-      "expirydate": "19-03-2026",
+      "expirydate": "28-03-2026",
       "key": "01qlzmncbvg",
       "user": "Khursheed khan"
     },
@@ -6720,7 +6720,7 @@
     {
       "Allowoffline": false,
       "device_id": "734ecd401fa816fc",
-      "expirydate": "18-03-2026",
+      "expirydate": "23-03-2026",
       "key": "B48USI748GBP",
       "user": "Lucky choudhary"
     },
@@ -7912,6 +7912,34 @@
       "device_id": "df962b77b5ed2a65",
       "expirydate": "02-04-2026",
       "key": "1TGOSLGBWMYG",
+      "user": "Firoj ahamad"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "4150e03799d18aae",
+      "expirydate": "03-04-2026",
+      "key": "TAK0X4FGW84B",
+      "user": "Devendra Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "6da4048431a08eca",
+      "expirydate": "28-03-2026",
+      "key": "ZJI6OL0RAJW1",
+      "user": "Devendra Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "82384e3df47a6edf",
+      "expirydate": "02-04-2026",
+      "key": "Irshad",
+      "user": "Shaikh shakir ali"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "fa3fff076f1ea605",
+      "expirydate": "02-04-2026",
+      "key": "SMW5BMU67BVB",
       "user": "Firoj ahamad"
     }
   ],
@@ -9893,7 +9921,7 @@
     {
       "Allowoffline": false,
       "device_id": "f54f86a8b8fc8ac4",
-      "expirydate": "31-03-2026",
+      "expirydate": "02-04-2026",
       "key": "2QBODSS97ACR",
       "user": "Karan Kumar"
     },
@@ -10246,6 +10274,20 @@
       "expirydate": "02-04-2026",
       "key": "JFU1A3X0MQDF",
       "user": "Sandeep Chauhan"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "2308de67e3bc7e44",
+      "expirydate": "03-04-2026",
+      "key": "PK1131S3OP1Z",
+      "user": "Ali"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "7fcafd4763c91950",
+      "expirydate": "02-04-2026",
+      "key": "VEKAY250T0MW",
+      "user": "Akhilesh yadav"
     }
   ]
 }
