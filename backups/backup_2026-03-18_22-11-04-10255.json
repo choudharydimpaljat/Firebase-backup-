@@ -6698,13 +6698,6 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "b372be1812830918",
-      "expirydate": "21-03-2026",
-      "key": "EVJ19WKLK4UF",
-      "user": "Satyam vip"
-    },
-    {
-      "Allowoffline": false,
       "device_id": "bdffe434a2d4c7b7",
       "expirydate": "08-03-2026",
       "key": "78W4NYNJSOXQ",
@@ -7983,6 +7976,27 @@
       "expirydate": "02-04-2026",
       "key": "Q75LX1PTE7EF",
       "user": "Mukesh"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "edc9e76d5e779a01",
+      "expirydate": "31-03-2026",
+      "key": "GRJYYMAMZYDH",
+      "user": "Jitendra Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "1558febf6374d645",
+      "expirydate": "02-04-2026",
+      "key": "QOCVLTIDOOYD",
+      "user": "Pramod yadav"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "3dc43e331bf26c29",
+      "expirydate": "02-04-2026",
+      "key": "CR26BHA7THC5",
+      "user": "Sadab alam"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -8843,7 +8857,7 @@
     {
       "Allowoffline": false,
       "device_id": "b9b018684f2c00d6",
-      "expirydate": "19-03-2026",
+      "expirydate": "04-04-2026",
       "key": "0ZDZI1U7WAAX",
       "user": "Satish halge"
     },
@@ -10379,6 +10393,34 @@
       "expirydate": "02-04-2026",
       "key": "3FEI19MOE3BU",
       "user": "Ac study"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "0ee26f3126de157c",
+      "expirydate": "02-04-2026",
+      "key": "LSXI0X2D32SF",
+      "user": "Talari Prasad"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "69b75804bb7fdf37",
+      "expirydate": "02-04-2026",
+      "key": "3Z6WY9T3L1V8",
+      "user": "Ali"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "689e4f80b348952e",
+      "expirydate": "02-04-2026",
+      "key": "9C31P2UV6RSU",
+      "user": "Alok kumar 13"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "b372be1812830918",
+      "expirydate": "06-04-2026",
+      "key": "VWIBGX0GW1BK",
+      "user": "Satyam vip"
     }
   ]
 }
