@@ -3248,7 +3248,7 @@
     {
       "Allowoffline": false,
       "device_id": "da586b931d328322",
-      "expirydate": "18-03-2026",
+      "expirydate": "20-03-2026",
       "key": "577b65tg",
       "user": "dheerendra namdev"
     },
@@ -7941,6 +7941,13 @@
       "expirydate": "02-04-2026",
       "key": "SMW5BMU67BVB",
       "user": "Firoj ahamad"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "77d6aa38edb8b5",
+      "expirydate": "02-04-2026",
+      "key": "7NBDRIZ9716W",
+      "user": "ajit kumar dangi"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -10295,6 +10302,20 @@
       "expirydate": "02-04-2026",
       "key": "U9OBBYOP6GCD",
       "user": "Ajay Yaduvanshi"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "b3236fc896f41a74",
+      "expirydate": "17-04-2026",
+      "key": "0J2UAZ5ZFETI",
+      "user": "Mahi rawat"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "5890f80102fd68af",
+      "expirydate": "26-03-2026",
+      "key": "83T2TDHMUBFG",
+      "user": "Md sadhu"
     }
   ]
 }
