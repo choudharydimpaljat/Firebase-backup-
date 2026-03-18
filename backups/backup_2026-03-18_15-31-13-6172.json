@@ -5376,7 +5376,7 @@
     {
       "Allowoffline": false,
       "device_id": "4db4838f4bf6b3eb",
-      "expirydate": "20-03-20",
+      "expirydate": "25-03-2026",
       "key": "6e4c404e81",
       "user": "manglesh pal"
     },
@@ -7969,6 +7969,27 @@
       "expirydate": "02-04-2026",
       "key": "55JK2YTW3M89",
       "user": "Mk lodhi"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "5f1945e7c8dfb000",
+      "expirydate": "30-04-2026",
+      "key": "E5Q9IMA2G10B",
+      "user": "Amrit bhai"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "b1f8af2b1ba7417f",
+      "expirydate": "02-04-2026",
+      "key": "Q75LX1PTE7EF",
+      "user": "Mukesh"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "edc9e76d5e779a01",
+      "expirydate": "31-03-2026",
+      "key": "GRJYYMAMZYDH",
+      "user": "edc9e76d5e779a01"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -10337,6 +10358,48 @@
       "expirydate": "26-03-2026",
       "key": "83T2TDHMUBFG",
       "user": "Md sadhu"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "1c2446d02cba6821",
+      "expirydate": "25-03-2026",
+      "key": "IFKSWEV14VR0",
+      "user": "Naveen Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "1c2446d02cba6831",
+      "expirydate": "25-03-2026",
+      "key": "DO78WOQPLEVI",
+      "user": "Naveen Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "ef2d990d803acb2e",
+      "expirydate": "02-04-2026",
+      "key": "6T4ISW88DX3X",
+      "user": "Rambhupal Reddy"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "ef0b2783bf3f7fed",
+      "expirydate": "02-04-2026",
+      "key": "3FEI19MOE3BU",
+      "user": "Ac study"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "0ee26f3126de157c",
+      "expirydate": "02-04-2026",
+      "key": "LSXI0X2D32SF",
+      "user": "Talari Prasad"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "69b75804bb7fdf37",
+      "expirydate": "02-04-2026",
+      "key": "3Z6WY9T3L1V8",
+      "user": "Ali"
     }
   ]
 }
