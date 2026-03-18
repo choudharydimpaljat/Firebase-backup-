@@ -2386,13 +2386,6 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "ad09706a183c0841",
-      "expirydate": "18-03-2026",
-      "key": "3OR84CW9YR60",
-      "user": "Parsant"
-    },
-    {
-      "Allowoffline": false,
       "device_id": "8e05604974268654",
       "expirydate": "03-12-20",
       "key": "loveUOP",
@@ -6636,7 +6629,7 @@
     {
       "Allowoffline": false,
       "device_id": "ad09706a183c0841",
-      "expirydate": "26-02-2026",
+      "expirydate": "18-04-2026",
       "key": "KMJSU57QE0DO",
       "user": "Parasanta karkaria"
     },
@@ -6741,7 +6734,7 @@
     {
       "Allowoffline": false,
       "device_id": "17e61fb9a6180750",
-      "expirydate": "18-03-2026",
+      "expirydate": "03-04-2026",
       "key": "DJR7PW6E7OSV",
       "user": "Mr s"
     },
@@ -6769,7 +6762,7 @@
     {
       "Allowoffline": false,
       "device_id": "62928bf89957c6bc",
-      "expirydate": "18-03-2026",
+      "expirydate": "28-03-2026",
       "key": "X5DZ1XCWFCNI",
       "user": "Resilience"
     },
@@ -6797,7 +6790,7 @@
     {
       "Allowoffline": false,
       "device_id": "ba4f9c57df34358c",
-      "expirydate": "18-03-2026",
+      "expirydate": "26-03-20",
       "key": "ZP0HHWP7NUNU",
       "user": "Venky"
     },
@@ -7906,6 +7899,13 @@
       "expirydate": "03-04-2026",
       "key": "5LNC6THIYLIV",
       "user": "Sagar Sahukar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "f936df8a7a09a66a",
+      "expirydate": "27-03-2026",
+      "key": "OPI0Y0TAAN87",
+      "user": "dimple kumar"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -8185,7 +8185,7 @@
     {
       "Allowoffline": false,
       "device_id": "40c931ec256859f7",
-      "expirydate": "18-03-2026",
+      "expirydate": "19-03-2026",
       "key": "MRPPYFKD4O70",
       "user": "Gulfam khan"
     },
@@ -9256,7 +9256,7 @@
     {
       "Allowoffline": false,
       "device_id": "a5ef5fc4e81d9621",
-      "expirydate": "18-03-2026",
+      "expirydate": "25-03-2026",
       "key": "MVP3L1YQZ9HS",
       "user": "Rinku Kumar"
     },
@@ -10225,6 +10225,13 @@
       "expirydate": "17-04-2026",
       "key": "S5U0M447FIB5",
       "user": "Shukla computer"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "6bb64673bf61689d",
+      "expirydate": "03-04-2026",
+      "key": "CMUN6G67XNIJ",
+      "user": "Ali"
     }
   ]
 }
