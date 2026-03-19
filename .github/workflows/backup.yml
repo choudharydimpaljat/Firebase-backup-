@@ -39,7 +39,7 @@ jobs:
       - name: Keep last 10 backups
         run: |
           cd backups
-          ls -1t *.json 2>/dev/null | tail -n +11 | xargs rm -f || true
+          ls -1t *.json 2>/dev/null | tail -n +16 | xargs rm -f || true
 
       # ✅ Commit & push
       - name: Commit & Push
