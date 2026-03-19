@@ -7434,7 +7434,7 @@
     {
       "Allowoffline": false,
       "device_id": "bc06ced8ce9bf6e8",
-      "expirydate": "28-03-2026",
+      "expirydate": "19-03-2026",
       "key": "WCB5K6JSMSAF",
       "user": "Rahjf Menes"
     },
@@ -8021,7 +8021,7 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "785bedeee80062a2",
+      "device_id": "76fee3b5ccd63559",
       "expirydate": "03-04-2026",
       "key": "DUX9KRN8UMA8",
       "user": "Rp"
@@ -8067,6 +8067,13 @@
       "expirydate": "03-04-2026",
       "key": "YDK5230BRFPI",
       "user": "Ankur panday"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "abc0b82599bfc3d8",
+      "expirydate": "03-04-2026",
+      "key": "Shakir",
+      "user": "Sheikh Shakir Ali"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -10540,6 +10547,13 @@
       "expirydate": "31-03-2026",
       "key": "E1NMG7L8IZJC",
       "user": "Dheerendra Namdev"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "9b0e7df63cf6d3ed",
+      "expirydate": "05-04-2026",
+      "key": "K8K9NNFSJ1LZ",
+      "user": "Dil khush khan"
     }
   ]
 }
