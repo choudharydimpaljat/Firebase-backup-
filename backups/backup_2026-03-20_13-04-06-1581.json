@@ -6468,7 +6468,7 @@
     {
       "Allowoffline": false,
       "device_id": "9b24342902e2710a",
-      "expirydate": "05-03-2026",
+      "expirydate": "31-03-2026",
       "key": "HRHCXEQXY9AR",
       "user": "Ac study"
     },
@@ -6846,7 +6846,7 @@
     {
       "Allowoffline": false,
       "device_id": "dffa2346722bb33f",
-      "expirydate": "19-03-2026",
+      "expirydate": "28-03-2026",
       "key": "NBEE2RCJV52P",
       "user": "Sumit Kumar"
     },
@@ -8144,6 +8144,34 @@
       "expirydate": "04-04-2026",
       "key": "SK8BR2P1SO74",
       "user": "Satendra Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "4c53543d66ce5162",
+      "expirydate": "05-04-2026",
+      "key": "48DS6UUG7ZYB",
+      "user": "Shivam Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "bbe3ef0b4fe3f8df",
+      "expirydate": "19-04-2026",
+      "key": "ZETDXT36HXML",
+      "user": "Dhruba Charan"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "624f51b888497475",
+      "expirydate": "05-04-2026",
+      "key": "EEV0FKGJQ60A",
+      "user": "Panday"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "9d541e356513fdbc",
+      "expirydate": "31-03-2026",
+      "key": "V0P7FVDJZCDZ",
+      "user": "Dar sahil"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -8423,7 +8451,7 @@
     {
       "Allowoffline": false,
       "device_id": "40c931ec256859f7",
-      "expirydate": "19-03-2026",
+      "expirydate": "31-03-2026",
       "key": "MRPPYFKD4O70",
       "user": "Gulfam khan"
     },
@@ -10271,7 +10299,7 @@
     {
       "Allowoffline": false,
       "device_id": "64995fbf56601e7c",
-      "expirydate": "15-04-2026",
+      "expirydate": "15-04-20",
       "key": "B6FM5YJCTGPF",
       "user": "Ankit pandit"
     },
@@ -10638,6 +10666,27 @@
       "expirydate": "30-03-2026",
       "key": "TZFH46BXXG56",
       "user": "Same s"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "ae40a926334baaf3",
+      "expirydate": "20-04-2026",
+      "key": "7KQ7XE8W6O66",
+      "user": "Rajnish Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "dffd54673a4a9d23",
+      "expirydate": "19-04-2026",
+      "key": "YXFXKVC3N7KH",
+      "user": "Indraj Patel"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "6bd77c1aaa082b78",
+      "expirydate": "04-04-2026",
+      "key": "WBO7O914M0T8",
+      "user": "Sumeet singh"
     }
   ]
 }
