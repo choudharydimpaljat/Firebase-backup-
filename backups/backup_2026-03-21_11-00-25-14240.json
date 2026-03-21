@@ -2555,7 +2555,7 @@
     {
       "Allowoffline": false,
       "device_id": "d27ebe35925d815f",
-      "expirydate": "18-02-2026",
+      "expirydate": "05-04-2026",
       "key": "EZKDWJ1ASK12",
       "user": "Prachi yadaw"
     },
@@ -3125,13 +3125,6 @@
       "expirydate": "25-03-2026",
       "key": "5678990054",
       "user": "baria pradip Kumar H"
-    },
-    {
-      "Allowoffline": false,
-      "device_id": "734f119578afc8fa",
-      "expirydate": "05-04-2026",
-      "key": "58885h7770",
-      "user": "Aaryan tanay"
     },
     {
       "Allowoffline": false,
@@ -6916,7 +6909,7 @@
     {
       "Allowoffline": false,
       "device_id": "d4e46bfcc84c028e",
-      "expirydate": "19-03-2026",
+      "expirydate": "06-04-2026",
       "key": "3LKJAH6PR8YS",
       "user": "ravi kumar"
     },
@@ -6958,7 +6951,7 @@
     {
       "Allowoffline": false,
       "device_id": "fb6d82f45f4a7852",
-      "expirydate": "21-03-2026",
+      "expirydate": "29-03-2026",
       "key": "7WKV7M915TV3",
       "user": "Mithilesh Kumar"
     },
@@ -8228,6 +8221,41 @@
       "expirydate": "31-03-2026",
       "key": "9ZTKNS3BGK7X",
       "user": "ranjan singh"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "f7e8de1b0049a111",
+      "expirydate": "05-04-2026",
+      "key": "BK2QMVJ2YKYI",
+      "user": "Kajal Kumari"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "6aa41f81305ad3b5",
+      "expirydate": "06-04-2026",
+      "key": "G03N4DR3AIMX",
+      "user": "Arayan pathak"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "e1416dbe8f2fc6e8",
+      "expirydate": "06-04-2026",
+      "key": "QNO2GZA6UJK2",
+      "user": "Aaryan tanay"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "734f119578afc8fa",
+      "expirydate": "06-04-2026",
+      "key": "58885h7770",
+      "user": "Aaryan tanay"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "3c2b4a2067fa9d2d",
+      "expirydate": "06-04-2026",
+      "key": "FPDYMVWGCBI5",
+      "user": "Aaryan tanay"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -10757,6 +10785,20 @@
       "expirydate": "04-04-20",
       "key": "M38XTE9G5BCX",
       "user": "shambhu Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "da0570b3445308b4",
+      "expirydate": "29-03-2026",
+      "key": "00EW0U0N4OGR",
+      "user": "A raj"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "729ffafe1fa6c5e6",
+      "expirydate": "04-04-2026",
+      "key": "GZIE3KK6R1I0",
+      "user": "M kumavat484"
     }
   ]
 }
