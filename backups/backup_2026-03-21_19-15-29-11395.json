@@ -4340,7 +4340,7 @@
     {
       "Allowoffline": false,
       "device_id": "82ba7634f227a6e5",
-      "expirydate": "21-03-2026",
+      "expirydate": "28-03-2026",
       "key": "509k8j7tge",
       "user": "sonu bs"
     },
@@ -8270,6 +8270,41 @@
       "expirydate": "05-04-2026",
       "key": "PDJTZIZ1F8T1",
       "user": "Firoj ahamad"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "3955337b91cd612a",
+      "expirydate": "30-03-2026",
+      "key": "SICP6JPOVOGO",
+      "user": "Ac study"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "223cdc381115a5db",
+      "expirydate": "29-03-2026",
+      "key": "E3YNVU7LPURD",
+      "user": "Satendra Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "1cbc67566fa7193a",
+      "expirydate": "05-04-2026",
+      "key": "DWCKSCJFWT73",
+      "user": "Dharmendrakumar3"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "accadfadb93be659",
+      "expirydate": "05-04-2026",
+      "key": "6OCKZCL9M3JV",
+      "user": "arvind singh jadon"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "26aa1505bca6e43e",
+      "expirydate": "05-04-2026",
+      "key": "RMSQ98XA26A5",
+      "user": "Chinna"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -8514,7 +8549,7 @@
     {
       "Allowoffline": false,
       "device_id": "8a61539991cf8266",
-      "expirydate": "21-03-2026",
+      "expirydate": "05-04-2026",
       "key": "GZRHBTMBIBA1",
       "user": "Subham Singh"
     },
@@ -9094,7 +9129,7 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "b646a311783b44bc",
+      "device_id": "89977aa6a0888c4d",
       "expirydate": "29-03-2026",
       "key": "ZC6FV7B6FDKP",
       "user": "Suryansh yadav"
@@ -10827,6 +10862,13 @@
       "expirydate": "05-04-2026",
       "key": "U83Q87O9ZXIQ",
       "user": "Amit kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "4af450a799d9f24a",
+      "expirydate": "20-04-2026",
+      "key": "NTGWCPP4Q20M",
+      "user": "Aditya Kumar"
     }
   ]
 }
