@@ -2471,7 +2471,7 @@
     {
       "Allowoffline": false,
       "device_id": "d98f1683b904a6ff",
-      "expirydate": "10-03-2026",
+      "expirydate": "28-03-20",
       "key": "OWYBB0326G99",
       "user": "Shahab yadav"
     },
@@ -2604,7 +2604,7 @@
     {
       "Allowoffline": false,
       "device_id": "5bcaf4764728f808",
-      "expirydate": "05-03-2026",
+      "expirydate": "05-04-2026",
       "key": "Mohd rafi",
       "user": "Nizam ali pardhan"
     },
@@ -3129,7 +3129,7 @@
     {
       "Allowoffline": false,
       "device_id": "734f119578afc8fa",
-      "expirydate": "30-12-2025",
+      "expirydate": "05-04-2026",
       "key": "58885h7770",
       "user": "Aaryan tanay"
     },
@@ -8214,6 +8214,20 @@
       "expirydate": "21-03-2026",
       "key": "3LA5C3PPT4MF",
       "user": "Sk majhi"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "901ececd0d5b39ff",
+      "expirydate": "05-04-2026",
+      "key": "F84OUH40U7HC",
+      "user": "D m"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "8e665e9e54e7ff25",
+      "expirydate": "31-03-2026",
+      "key": "9ZTKNS3BGK7X",
+      "user": "ranjan singh"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -9172,7 +9186,7 @@
     {
       "Allowoffline": false,
       "device_id": "d98f1683b904a6ff",
-      "expirydate": "13-03-2026",
+      "expirydate": "28-03-2026",
       "key": "OWYBB0326G99",
       "user": "Shahb yadaw"
     },
