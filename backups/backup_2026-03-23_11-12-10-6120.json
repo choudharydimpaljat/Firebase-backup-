@@ -4802,7 +4802,7 @@
     {
       "Allowoffline": false,
       "device_id": "0f25678ecc31a2ed",
-      "expirydate": "26-02-2026",
+      "expirydate": "30-03-2026",
       "key": "54kdiruu",
       "user": "csc"
     },
@@ -7056,7 +7056,7 @@
     {
       "Allowoffline": false,
       "device_id": "e846a923eb3a429c",
-      "expirydate": "23-03-2026",
+      "expirydate": "07-04-2026",
       "key": "VB5IF0DJG3DP",
       "user": "Prateek singh"
     },
@@ -7077,7 +7077,7 @@
     {
       "Allowoffline": false,
       "device_id": "e5ad0d9656571bbb",
-      "expirydate": "23-03-2026",
+      "expirydate": "07-04-2026",
       "key": "NB8H950BA0B1",
       "user": "Rinku Kumar"
     },
@@ -8368,6 +8368,13 @@
       "expirydate": "06-04-2026",
       "key": "F76PHDG2JF46",
       "user": "Pradum singh"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "0f8ec50a9f09d508",
+      "expirydate": "31-03-2026",
+      "key": "7R1ZD5UB3RN7",
+      "user": "Ram Shankar khushwah"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -8843,7 +8850,7 @@
     {
       "Allowoffline": false,
       "device_id": "354c4e00c4e160f6",
-      "expirydate": "06-04-2026",
+      "expirydate": "06-04-20",
       "key": "ZKNQTLZV5KEK",
       "user": "Aj"
     },
@@ -9410,14 +9417,14 @@
     {
       "Allowoffline": false,
       "device_id": "f76d00a11937f772",
-      "expirydate": "22-03-2026",
+      "expirydate": "07-04-2026",
       "key": "3GGUTHN4PNIR",
       "user": "Ramalingeswara"
     },
     {
       "Allowoffline": false,
       "device_id": "e226715656aef398",
-      "expirydate": "22-03-2026",
+      "expirydate": "31-03-2026",
       "key": "3BN33QT1KGX6",
       "user": "Odisha nmms"
     },
@@ -10565,7 +10572,7 @@
     {
       "Allowoffline": false,
       "device_id": "e9c57da0deb94015",
-      "expirydate": "23-03-2026",
+      "expirydate": "31-03-2026",
       "key": "58c48705af",
       "user": "15739660540"
     },
@@ -10981,6 +10988,13 @@
       "expirydate": "06-04-2026",
       "key": "YR16JAVYUCX8",
       "user": "Atlesh Shakya"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "cf2b8ab1c693e96c",
+      "expirydate": "06-04-2026",
+      "key": "HBVNYXK5D4I8",
+      "user": "Aj"
     }
   ]
 }
