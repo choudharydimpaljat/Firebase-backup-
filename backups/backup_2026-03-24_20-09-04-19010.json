@@ -2583,7 +2583,7 @@
     {
       "Allowoffline": false,
       "device_id": "0aaa39d68d743284",
-      "expirydate": "24-03-2026",
+      "expirydate": "25-03-2026",
       "key": "Pardeep",
       "user": "Nizam ali pardhan"
     },
@@ -2723,7 +2723,7 @@
     {
       "Allowoffline": false,
       "device_id": "23beb1e00350d7ef",
-      "expirydate": "20-02-2026",
+      "expirydate": "23-04-2026",
       "key": "F1HBWJ9M9KORM",
       "user": "Aamchan"
     },
@@ -7042,7 +7042,7 @@
     {
       "Allowoffline": false,
       "device_id": "8c7f80e66e6484ca",
-      "expirydate": "23-03-2026",
+      "expirydate": "08-04-2026",
       "key": "2YABPF4JAR3A",
       "user": "Amrit thakur"
     },
@@ -7181,7 +7181,7 @@
     },
     {
       "Allowoffline": false,
-      "device_id": "b306f6679c9f087a",
+      "device_id": "6ca0a2622099275a",
       "expirydate": "25-03-2026",
       "key": "DHIRENDRA",
       "user": "Nizam ali pardhan"
@@ -8417,6 +8417,27 @@
       "expirydate": "09-04-2026",
       "key": "Rajeev",
       "user": "Nizam ali pardhan"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "affcfe6be7c07c61",
+      "expirydate": "08-04-20",
+      "key": "3NVJR443GUZ0",
+      "user": "Rahul chuhan"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "6eae2ffb2b02b684",
+      "expirydate": "27-03-2026",
+      "key": "FY3V4K0O0Z9S",
+      "user": "Dhiraj thakur"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "4b1f291d63e0177a",
+      "expirydate": "23-04-2026",
+      "key": "PYHTSHB5VE8Y",
+      "user": "Pilli Balanagulu balu"
     }
   ],
   "FaceAuthGalleryKyc": [
@@ -8878,7 +8899,7 @@
     {
       "Allowoffline": false,
       "device_id": "affcfe6be7c07c61",
-      "expirydate": "24-03-2026",
+      "expirydate": "04-04-2026",
       "key": "2TB8AG3N6U2T",
       "user": "Rahul Chauhan"
     },
@@ -11072,6 +11093,13 @@
       "expirydate": "09-04-2026",
       "key": "OM5SO7H33JBK",
       "user": "Hariom arya"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "6eae2ffb2b02b684",
+      "expirydate": "28-03-2026",
+      "key": "FY3V4K0O0Z9S",
+      "user": "Dhiraj thakur"
     }
   ]
 }
