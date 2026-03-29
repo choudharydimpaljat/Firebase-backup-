@@ -22,7 +22,7 @@ jobs:
       # ✅ Firebase se JSON + pretty format
       - name: Fetch & Format JSON
         run: |
-          curl "https://opjat-2005-default-rtdb.asia-southeast1.firebasedatabase.app/.json" | jq '.' > backup.json
+          curl "https://nmms-16619-default-rtdb.asia-southeast1.firebasedatabase.app/.json" | jq '.' > backup.json
 
       # ✅ Folder ensure
       - name: Create backup folder
