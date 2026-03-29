@@ -3811,13 +3811,6 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "1f193c298b3f5bc9",
-        "expirydate": "13-04-2026",
-        "key": "jsfnsywt7whx",
-        "user": "........"
-      },
-      {
-        "Allowoffline": false,
         "device_id": "f281790660c5659b",
         "expirydate": "20-12-2025",
         "key": "d22b22036a",
@@ -5534,7 +5527,7 @@
       {
         "Allowoffline": false,
         "device_id": "852d82a4e41b690a",
-        "expirydate": "31-03-20",
+        "expirydate": "31-03-2026",
         "key": "LCAIE5Y4A2DM",
         "user": "@pinda aala"
       },
@@ -6307,6 +6300,20 @@
         "expirydate": "31-03-2026",
         "key": "9FXQK7BSHR1X",
         "user": "Ganesha"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "68de566b9a6ca4e6",
+        "expirydate": "13-04-2026",
+        "key": "TGL9XNVG2MEX",
+        "user": "Anish Chauhan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "2c5a0c9b226ff82e",
+        "expirydate": "01-04-2026",
+        "key": "DIKUZ15DDBY6",
+        "user": "Malic"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6640,7 +6647,7 @@
       {
         "Allowoffline": false,
         "device_id": "710ef12c2d443e37",
-        "expirydate": "13-04-2026",
+        "expirydate": "01-04-2026",
         "key": "5727MTKEF9EY",
         "user": "......"
       },
@@ -8424,13 +8431,6 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "1f193c298b3f5bc9",
-        "expirydate": "13-04-2026",
-        "key": "5727MTKEF9EY",
-        "user": "....."
-      },
-      {
-        "Allowoffline": false,
         "device_id": "5abea3f5b9b77ada",
         "expirydate": "01-04-2026",
         "key": "54748yb68",
@@ -9058,6 +9058,20 @@
         "expirydate": "01-04-2026",
         "key": "4N0QLMR00ELF",
         "user": "15739660540"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "1f193c298b3f5bc9",
+        "expirydate": "13-04-2026",
+        "key": "AOX509ZUOAOS",
+        "user": "Raj"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "1898323f48ce3ab4",
+        "expirydate": "01-04-2026",
+        "key": "UKSZZD36GE1R",
+        "user": "Op"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
