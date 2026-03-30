@@ -5527,7 +5527,7 @@
       {
         "Allowoffline": false,
         "device_id": "852d82a4e41b690a",
-        "expirydate": "31-03-20",
+        "expirydate": "31-03-2026",
         "key": "LCAIE5Y4A2DM",
         "user": "@pinda aala"
       },
@@ -6300,6 +6300,48 @@
         "expirydate": "31-03-2026",
         "key": "9FXQK7BSHR1X",
         "user": "Ganesha"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "68de566b9a6ca4e6",
+        "expirydate": "13-04-2026",
+        "key": "TGL9XNVG2MEX",
+        "user": "Anish Chauhan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "2c5a0c9b226ff82e",
+        "expirydate": "01-04-2026",
+        "key": "DIKUZ15DDBY6",
+        "user": "Malic"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "da3839b0e8f56a19",
+        "expirydate": "14-04-2026",
+        "key": "DVHZX5PD95WY",
+        "user": "Sonu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "de2e54c9855303da",
+        "expirydate": "14-04-2026",
+        "key": "EK8IVNHEFA8O",
+        "user": "H AANVITH"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "35546db14e7000dd",
+        "expirydate": "01-04-2026",
+        "key": "PRQZI1QM2SZ6",
+        "user": "Manoj kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "9bd222ee5bf45b89",
+        "expirydate": "09-04-2026",
+        "key": "DKXP6V5GIYWD",
+        "user": "NCC Captain"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6633,7 +6675,7 @@
       {
         "Allowoffline": false,
         "device_id": "710ef12c2d443e37",
-        "expirydate": "13-04-2026",
+        "expirydate": "01-04-2026",
         "key": "5727MTKEF9EY",
         "user": "......"
       },
@@ -9051,6 +9093,13 @@
         "expirydate": "13-04-2026",
         "key": "AOX509ZUOAOS",
         "user": "Raj"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "1898323f48ce3ab4",
+        "expirydate": "01-04-2026",
+        "key": "UKSZZD36GE1R",
+        "user": "Op"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
