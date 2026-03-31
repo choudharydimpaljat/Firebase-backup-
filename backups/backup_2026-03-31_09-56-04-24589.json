@@ -1663,7 +1663,7 @@
       {
         "Allowoffline": false,
         "device_id": "4999c88c8d613306",
-        "expirydate": "15-03-2026",
+        "expirydate": "16-04-2026",
         "key": "527929hg6",
         "user": "Raghavendra"
       },
@@ -2131,7 +2131,7 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "82ba7634f227a6e5",
+        "device_id": "901abbf85cce1b5e",
         "expirydate": "01-04-2026",
         "key": "509k8j7tge",
         "user": "sonu bs"
@@ -7585,7 +7585,7 @@
       {
         "Allowoffline": false,
         "device_id": "f1d9e7a0f96a8bd4",
-        "expirydate": "24-03-2026",
+        "expirydate": "01-04-2026",
         "key": "LYEIKHB26484",
         "user": "Sudhir shahu"
       },
@@ -8096,7 +8096,7 @@
       {
         "Allowoffline": false,
         "device_id": "04b7d25ff64d9774",
-        "expirydate": "24-03-2026",
+        "expirydate": "31-03-2026",
         "key": "Ramboy",
         "user": "Ram boy"
       },
@@ -8110,7 +8110,7 @@
       {
         "Allowoffline": false,
         "device_id": "3ee91f025c1191c9",
-        "expirydate": "01-04-2026",
+        "expirydate": "13-04-2026",
         "key": "6U171MYSGEHV",
         "user": "Ali"
       },
@@ -9128,6 +9128,20 @@
         "expirydate": "15-04-2026",
         "key": "JTWSL6FXS7C8",
         "user": "Mithilesh Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "d86971abc29e62bf",
+        "expirydate": "29-04-2026",
+        "key": "6QZCCFILLTFD",
+        "user": "Yelaka Rajasekhar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "f193c82cb280f978",
+        "expirydate": "15-04-2026",
+        "key": "CR5GP8SAC0DC",
+        "user": "Bhupendra bharti"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
