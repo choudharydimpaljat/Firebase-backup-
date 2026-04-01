@@ -942,7 +942,7 @@
       {
         "Allowoffline": false,
         "device_id": "0430a5bf3bba520c",
-        "expirydate": "05-03-2026",
+        "expirydate": "15-04-2026",
         "key": "11128oi9d75",
         "user": "ishawarlal kumawat"
       },
@@ -6171,7 +6171,7 @@
       {
         "Allowoffline": false,
         "device_id": "2a6c376845c99f39",
-        "expirydate": "01-04-2026",
+        "expirydate": "16-04-2026",
         "key": "A6GUOZEGBDST",
         "user": "Sai sai"
       },
@@ -6363,6 +6363,34 @@
         "expirydate": "01-04-2026",
         "key": "9CV4T8MZCYK9",
         "user": "Arjun Singh verma"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "651d94a1a580a58e",
+        "expirydate": "08-04-2026",
+        "key": "2Q7PDFPJWJW8",
+        "user": "Satyapal Singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "33ce9dab58725afd",
+        "expirydate": "16-04-2026",
+        "key": "OWZWXR515FA5",
+        "user": "Harish bagh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "5976e7fb07b75010",
+        "expirydate": "16-04-2026",
+        "key": "6ZFPCV0T0BOS",
+        "user": "gopal rathore"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "59698ac1de0df71a",
+        "expirydate": "01-05-2026",
+        "key": "7Q2BQ19G9Z8P",
+        "user": "Shinder singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -7991,7 +8019,7 @@
       {
         "Allowoffline": false,
         "device_id": "21c41cf419e87a79",
-        "expirydate": "01-04-2026",
+        "expirydate": "05-04-2026",
         "key": "DNHJG19X7HUQ",
         "user": "Sonu singh"
       },
@@ -8103,7 +8131,7 @@
       {
         "Allowoffline": false,
         "device_id": "11ea2ca7a4d3b3a1",
-        "expirydate": "01-04-2026",
+        "expirydate": "17-04-2026",
         "key": "ramniwas",
         "user": "Ram boy"
       },
@@ -8124,7 +8152,7 @@
       {
         "Allowoffline": false,
         "device_id": "99dd5d2a7f1aa013",
-        "expirydate": "01-04-2026",
+        "expirydate": "16-04-2026",
         "key": "AMNEX0SE6SRX",
         "user": "Akash Singh"
       },
@@ -9184,6 +9212,13 @@
         "expirydate": "16-04-2026",
         "key": "33MCO9MWVKZN",
         "user": "Aayus yadaw"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "292201b580517e69",
+        "expirydate": "01-05-2026",
+        "key": "EKBCBTPIDA4O",
+        "user": "Mukesh Thakur"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
