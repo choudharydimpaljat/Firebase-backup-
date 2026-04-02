@@ -3,8 +3,8 @@
     "Expiry": "2",
     "admin_btn": "ADMIN",
     "dialog_show": true,
-    "footer": "Powered by",
-    "footer_name": "NMMS MOD",
+    "footer": "◎ Powered by ◎",
+    "footer_name": "ㅤNMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
     "key_hint": "Enter activation code",
     "keys": [
@@ -4610,7 +4610,7 @@
       {
         "Allowoffline": false,
         "device_id": "8c7d42d348dc7f60",
-        "expirydate": "02-04-2026",
+        "expirydate": "17-04-2026",
         "key": "9V7TGD8D8A4J",
         "user": "Sukhdew singh"
       },
@@ -6412,6 +6412,20 @@
         "expirydate": "16-04-2026",
         "key": "3D5N42TL4JIR",
         "user": "Pilli Balanagulu balu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "5c93927d1655c9fb",
+        "expirydate": "16-04-2026",
+        "key": "RHKBGMHZKA7A",
+        "user": "Raj"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "66babfaf36b57eee",
+        "expirydate": "17-04-2026",
+        "key": "6QXOO7RG8FXL",
+        "user": "Dashratj Gujar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6422,8 +6436,8 @@
     "Expiry": "2",
     "admin_btn": "ADMIN",
     "dialog_show": true,
-    "footer": "Powered by",
-    "footer_name": "NMMS MOD",
+    "footer": "◎ Powered by",
+    "footer_name": "◎ NMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
     "key_hint": "Enter activation code",
     "keys": [
@@ -8501,13 +8515,6 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "5c93927d1655c9fb",
-        "expirydate": "02-04-2026",
-        "key": "6ZZL1E3UBR2E",
-        "user": "........."
-      },
-      {
-        "Allowoffline": false,
         "device_id": "008d3e8ac4f4782b",
         "expirydate": "01-04-2026",
         "key": "7VFP2YDKHNQE",
@@ -8663,7 +8670,7 @@
       {
         "Allowoffline": false,
         "device_id": "f8737cdf48936f61",
-        "expirydate": "02-04-20",
+        "expirydate": "03-04-2026",
         "key": "RI6711GN8NYA",
         "user": "Rishabh jain"
       },
@@ -9261,6 +9268,13 @@
         "expirydate": "16-04-2026",
         "key": "D5DCEX9PB8NM",
         "user": "Rajesh b"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "8fe54414ebdc8a75",
+        "expirydate": "08-04-2026",
+        "key": "LN6J4ZO83A56",
+        "user": "Mahaboob Alam p"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
