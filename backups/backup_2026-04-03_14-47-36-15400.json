@@ -6468,6 +6468,20 @@
         "expirydate": "03-05-2026",
         "key": "PYDR1FLQH6DJ",
         "user": "Sk majhi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "a1798a182ef60980",
+        "expirydate": "14-04-2026",
+        "key": "YHHDMT1ZK735",
+        "user": "Vithal bunkar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "0d5f13c564cbec81",
+        "expirydate": "19-04-2026",
+        "key": "G8F3AA0J683P",
+        "user": "Mahboob Alam"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
