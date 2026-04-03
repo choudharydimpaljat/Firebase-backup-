@@ -2237,7 +2237,7 @@
       {
         "Allowoffline": false,
         "device_id": "5abea3f5b9b77ada",
-        "expirydate": "01-04-2026",
+        "expirydate": "18-04-2026",
         "key": "54748yb68",
         "user": "rohit"
       },
@@ -4323,7 +4323,7 @@
       {
         "Allowoffline": false,
         "device_id": "7a44e36cae182e01",
-        "expirydate": "05-03-2026",
+        "expirydate": "18-04-20",
         "key": "FRZKR4OGGLDU",
         "user": "Manoj kumar majhi"
       },
@@ -4659,7 +4659,7 @@
       {
         "Allowoffline": false,
         "device_id": "5d2e896bada6c404",
-        "expirydate": "03-04-2026",
+        "expirydate": "03-05-2026",
         "key": "KIMOJQ0LVQK5",
         "user": "Neeraj Kumar"
       },
@@ -6440,6 +6440,13 @@
         "expirydate": "17-04-2026",
         "key": "41JJHYWFD9KT",
         "user": "Lalit Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "cb7d06f9ae8e604a",
+        "expirydate": "17-04-2026",
+        "key": "65VU30BQGV05",
+        "user": "Sadab alam"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -7865,7 +7872,7 @@
       {
         "Allowoffline": false,
         "device_id": "d6ab63e1f5337180",
-        "expirydate": "26-03-2026",
+        "expirydate": "25-04-2026",
         "key": "C8OMRNPT35B0",
         "user": "Ashish Patel"
       },
@@ -8383,7 +8390,7 @@
       {
         "Allowoffline": false,
         "device_id": "8fea49fc3d57d698",
-        "expirydate": "01-04-2026",
+        "expirydate": "03-05-2026",
         "key": "T07T284YVS4R",
         "user": "Mukesh Thakur"
       },
@@ -8817,7 +8824,7 @@
       {
         "Allowoffline": false,
         "device_id": "ef2d990d803acb2e",
-        "expirydate": "02-04-2026",
+        "expirydate": "18-04-2026",
         "key": "6T4ISW88DX3X",
         "user": "Rambhupal Reddy"
       },
@@ -9125,7 +9132,7 @@
       {
         "Allowoffline": false,
         "device_id": "e92750e518e664a9",
-        "expirydate": "25-04-2026",
+        "expirydate": "25-04-20",
         "key": "JY88JGIHTFEV",
         "user": "Ashish Patel"
       },
@@ -9345,6 +9352,20 @@
         "expirydate": "17-04-2026",
         "key": "Hari",
         "user": "Ram boy"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "61d69aa089913ebd",
+        "expirydate": "04-05-2026",
+        "key": "67GZ3CXQ4QDI",
+        "user": "Jay p"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "7a44e36cae182e01",
+        "expirydate": "18-04-2026",
+        "key": "6A6U38TXBV84",
+        "user": "Manoj kumar Majhi"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
