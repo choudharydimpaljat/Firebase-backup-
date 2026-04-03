@@ -137,7 +137,7 @@
       {
         "Allowoffline": false,
         "device_id": "f8737cdf48936f61",
-        "expirydate": "02-04-2026",
+        "expirydate": "18-04-2026",
         "key": "540101019nnb",
         "user": "Rishabh jain"
       },
@@ -382,7 +382,7 @@
       {
         "Allowoffline": false,
         "device_id": "0aaa39d68d743284",
-        "expirydate": "25-03-2026",
+        "expirydate": "18-04-2026",
         "key": "Pardeep",
         "user": "Nizam ali pardhan"
       },
@@ -6478,10 +6478,10 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "e4c7164b1bed7d59",
+        "device_id": "0d5f13c564cbec81",
         "expirydate": "19-04-2026",
-        "key": "OJOXAJ5GVB9Q",
-        "user": "गुलशन कुमार"
+        "key": "G8F3AA0J683P",
+        "user": "Mahboob Alam"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6492,8 +6492,8 @@
     "Expiry": "2",
     "admin_btn": "ADMIN",
     "dialog_show": true,
-    "footer": "◎ Powered by ◎",
-    "footer_name": "ㅤNMMS MOD",
+    "footer": "◎ Powered by",
+    "footer_name": "◎ NMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
     "key_hint": "Enter activation code",
     "keys": [
@@ -9415,17 +9415,10 @@
         "expirydate": "18-04-2026",
         "key": "FDA2OWJUAKBU",
         "user": "Prabhav Jain"
-      },
-      {
-        "Allowoffline": false,
-        "device_id": "220e8e63268c9549",
-        "expirydate": "03-05-2026",
-        "key": "OHRD1O7DQGEG",
-        "user": "Rinku kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
-    "title": "FACE AUTH PRO",
+    "title": "Face Auth Pro Max",
     "version": "v3.7.0"
   }
 }
