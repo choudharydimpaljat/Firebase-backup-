@@ -137,7 +137,7 @@
       {
         "Allowoffline": false,
         "device_id": "f8737cdf48936f61",
-        "expirydate": "02-04-2026",
+        "expirydate": "18-04-20",
         "key": "540101019nnb",
         "user": "Rishabh jain"
       },
@@ -382,7 +382,7 @@
       {
         "Allowoffline": false,
         "device_id": "0aaa39d68d743284",
-        "expirydate": "25-03-2026",
+        "expirydate": "18-04-2026",
         "key": "Pardeep",
         "user": "Nizam ali pardhan"
       },
@@ -4974,7 +4974,7 @@
       {
         "Allowoffline": false,
         "device_id": "6ca0a2622099275a",
-        "expirydate": "25-03-2026",
+        "expirydate": "18-04-2026",
         "key": "DHIRENDRA",
         "user": "Nizam ali pardhan"
       },
@@ -6472,16 +6472,16 @@
       {
         "Allowoffline": false,
         "device_id": "a1798a182ef60980",
-        "expirydate": "13-04-2026",
-        "key": "F08BGTM2OR58",
+        "expirydate": "14-04-2026",
+        "key": "YHHDMT1ZK735",
         "user": "Vithal bunkar"
       },
       {
         "Allowoffline": false,
-        "device_id": "e4c7164b1bed7d59",
+        "device_id": "0d5f13c564cbec81",
         "expirydate": "19-04-2026",
-        "key": "OJOXAJ5GVB9Q",
-        "user": "गुलशन कुमार"
+        "key": "G8F3AA0J683P",
+        "user": "Mahboob Alam"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6492,8 +6492,8 @@
     "Expiry": "2",
     "admin_btn": "ADMIN",
     "dialog_show": true,
-    "footer": "◎ Powered by ◎",
-    "footer_name": "ㅤNMMS MOD",
+    "footer": "◎ Powered by",
+    "footer_name": "◎ NMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
     "key_hint": "Enter activation code",
     "keys": [
@@ -8726,7 +8726,7 @@
       {
         "Allowoffline": false,
         "device_id": "f8737cdf48936f61",
-        "expirydate": "03-04-2026",
+        "expirydate": "18-04-2026",
         "key": "RI6711GN8NYA",
         "user": "Rishabh jain"
       },
@@ -9418,7 +9418,7 @@
       }
     ],
     "telegram": "https://t.me/nmmsmod",
-    "title": "FACE AUTH PRO",
+    "title": "Face Auth Pro Max",
     "version": "v3.7.0"
   }
 }
