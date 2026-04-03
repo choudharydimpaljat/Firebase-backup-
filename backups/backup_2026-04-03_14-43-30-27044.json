@@ -844,7 +844,7 @@
       {
         "Allowoffline": false,
         "device_id": "d02ab3e8fe09fb44",
-        "expirydate": "18-04-2026",
+        "expirydate": "04-05-2026",
         "key": "76bii0j6ynii9j",
         "user": "Ramesh Chandra maida"
       },
@@ -6461,6 +6461,20 @@
         "expirydate": "18-04-2026",
         "key": "5O2PTQ8XD6N7",
         "user": "Gaurav Rastogi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "80414ef7a47f01f5",
+        "expirydate": "03-05-2026",
+        "key": "PYDR1FLQH6DJ",
+        "user": "Sk majhi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "a1798a182ef60980",
+        "expirydate": "14-04-2026",
+        "key": "YHHDMT1ZK735",
+        "user": "Vithal bunkar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
