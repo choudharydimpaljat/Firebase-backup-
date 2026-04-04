@@ -6503,6 +6503,20 @@
         "expirydate": "19-04-2026",
         "key": "VBNV64QJ6GN0",
         "user": "Pv"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "3f5398b30276b182",
+        "expirydate": "19-04-2026",
+        "key": "THM7VJBAKCWB",
+        "user": "Kundan mishra"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "cf6e691640e7d0f9",
+        "expirydate": "05-05-2026",
+        "key": "7A9954XIXUNR",
+        "user": "Nachhatar Singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -9485,6 +9499,13 @@
         "expirydate": "19-04-2026",
         "key": "KT1MITNAOF86",
         "user": "Rajkumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "cbf06728416578b4",
+        "expirydate": "04-05-2026",
+        "key": "UGD9WAV2KZN3",
+        "user": "ANANTA MEHER"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
