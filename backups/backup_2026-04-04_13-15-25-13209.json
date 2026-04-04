@@ -3637,7 +3637,7 @@
       {
         "Allowoffline": false,
         "device_id": "cdfe97fa5881a78c",
-        "expirydate": "01-04-2026",
+        "expirydate": "11-04-2026",
         "key": "3c14c54129",
         "user": "Balwinr singh"
       },
@@ -6503,6 +6503,27 @@
         "expirydate": "19-04-2026",
         "key": "VBNV64QJ6GN0",
         "user": "Pv"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "3f5398b30276b182",
+        "expirydate": "19-04-2026",
+        "key": "THM7VJBAKCWB",
+        "user": "Kundan mishra"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "cf6e691640e7d0f9",
+        "expirydate": "05-05-2026",
+        "key": "7A9954XIXUNR",
+        "user": "Nachhatar Singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "fc8a60eec27a3987",
+        "expirydate": "14-04-2026",
+        "key": "7OAKK6AIUGKR",
+        "user": "Same s"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6780,7 +6801,7 @@
       {
         "Allowoffline": false,
         "device_id": "efbb26736e281565",
-        "expirydate": "24-04-2026",
+        "expirydate": "24-04-20",
         "key": "Priyanka",
         "user": "Priyanka ji"
       },
@@ -7277,7 +7298,7 @@
       {
         "Allowoffline": false,
         "device_id": "dea8d8e648a2f7f8",
-        "expirydate": "03-04-2026",
+        "expirydate": "05-05-2026",
         "key": "MBN86RLJWDOK",
         "user": "Usme kumar"
       },
@@ -8474,7 +8495,7 @@
       {
         "Allowoffline": false,
         "device_id": "de591ebe05e2f685",
-        "expirydate": "22-04-2026",
+        "expirydate": "22-04-20",
         "key": "L8TOYHU719KG",
         "user": "Priyanka"
       },
@@ -9485,6 +9506,13 @@
         "expirydate": "19-04-2026",
         "key": "KT1MITNAOF86",
         "user": "Rajkumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "cbf06728416578b4",
+        "expirydate": "04-05-2026",
+        "key": "UGD9WAV2KZN3",
+        "user": "ANANTA MEHER"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
