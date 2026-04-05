@@ -6836,7 +6836,7 @@
       {
         "Allowoffline": false,
         "device_id": "efbb26736e281565",
-        "expirydate": "24-04-20",
+        "expirydate": "24-04-2026",
         "key": "Priyanka",
         "user": "Priyanka ji"
       },
@@ -7368,7 +7368,7 @@
       {
         "Allowoffline": false,
         "device_id": "948a5ea0589975bb",
-        "expirydate": "03-04-2026",
+        "expirydate": "05-05-2026",
         "key": "M2ZIGFD1TFVW",
         "user": "Krishna veni"
       },
@@ -7410,7 +7410,7 @@
       {
         "Allowoffline": false,
         "device_id": "2bb32a8693847d28",
-        "expirydate": "03-04-2026",
+        "expirydate": "05-05-2026",
         "key": "ES9WT3TNLYBY",
         "user": "Arman Khan"
       },
@@ -8327,7 +8327,7 @@
       {
         "Allowoffline": false,
         "device_id": "206675850dd0532d",
-        "expirydate": "01-04-2026",
+        "expirydate": "20-04-2026",
         "key": "ZFIDK21JPFL8",
         "user": "Alok Kumar"
       },
@@ -8348,7 +8348,7 @@
       {
         "Allowoffline": false,
         "device_id": "f046f9c954101b3b",
-        "expirydate": "01-04-2026",
+        "expirydate": "20-04-2026",
         "key": "KMJBTBIUB5SV",
         "user": "Juli kumari"
       },
@@ -9618,10 +9618,38 @@
         "expirydate": "06-05-2026",
         "key": "WYCLEB0NH34Y",
         "user": "Yelaka Rajasekhar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "73c8a7d8eb9be7bf",
+        "expirydate": "05-05-2026",
+        "key": "N4EQAMHWKBO7",
+        "user": "Mukesh Thakur"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
     "title": "Face Auth Pro Max",
+    "version": "v3.7.0"
+  },
+  "ULTRAPROMAX": {
+    "Expiry": "2",
+    "admin_btn": "ADMIN",
+    "dialog_show": true,
+    "footer": "Powered by",
+    "footer_name": "NMMSMOD",
+    "info": "For Activation Code :- Copy your apk id & send it to admin",
+    "key_hint": "Enter Activation Code",
+    "keys": [
+      {
+        "Allowoffline": false,
+        "device_id": "b7fcd04f7c59af3d",
+        "expirydate": "31-01-2030",
+        "key": "opjat",
+        "user": "omprakash"
+      }
+    ],
+    "telegram": "https://t.me/nmmsmod",
+    "title": "FACE AUTH ULTRA",
     "version": "v3.7.0"
   }
 }
