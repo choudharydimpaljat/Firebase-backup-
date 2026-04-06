@@ -5854,9 +5854,9 @@
         "user": "Ankur panday"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "abc0b82599bfc3d8",
-        "expirydate": "21-04-2026",
+        "expirydate": "19-04-2026",
         "key": "Shakir",
         "user": "Sheikh Shakir Ali"
       },
@@ -6596,7 +6596,7 @@
         "user": "King sk"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "1abb2b4cf5903580",
         "expirydate": "20-04-2026",
         "key": "XHF4IT8VPACS",
@@ -6617,11 +6617,32 @@
         "user": "Sadan kumar"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "342ba22987342e61",
         "expirydate": "22-04-2026",
         "key": "TMBVHH5KSGHD",
         "user": "mital budek"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "c58b11eee8007aa9",
+        "expirydate": "19-04-2026",
+        "key": "482CBHDNNT1U",
+        "user": "Shiv"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "a7791724fa2a6bdf",
+        "expirydate": "21-04-2026",
+        "key": "L3JH95ATD9EQ",
+        "user": "Sisi ram"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "6bd77claaa082b78",
+        "expirydate": "21-04-2026",
+        "key": "UERUAKVH80UD",
+        "user": "Sumeet singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
