@@ -6685,6 +6685,27 @@
         "expirydate": "23-04-2026",
         "key": "VBQO6QP35BOW",
         "user": "Guddu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "63132387d1a8ec15",
+        "expirydate": "23-04-2026",
+        "key": "698XL6BFFEH7",
+        "user": "Mahboob Alam"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "e4ec049d847b7b2d",
+        "expirydate": "23-04-2026",
+        "key": "37Y58HNG9FJ4",
+        "user": "Sachin Kuswaha"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "798eea077b41a8be",
+        "expirydate": "23-04-2026",
+        "key": "JTIB7SCE7EJV",
+        "user": "Mahboob Alam"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -9314,7 +9335,7 @@
       {
         "Allowoffline": false,
         "device_id": "5c1bbace5cc55b98",
-        "expirydate": "09-04-2026",
+        "expirydate": "13-04-2026",
         "key": "G9PS7FX3Z2MM",
         "user": "Aman Kumar"
       },
@@ -9856,6 +9877,13 @@
         "expirydate": "22-04-2026",
         "key": "ST2EQ7H946AD",
         "user": "Ravi muchu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "2645f2c45ba72c71",
+        "expirydate": "08-05-2026",
+        "key": "LXSQMP1H2737",
+        "user": "Yelaka Rajasekhar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -9863,7 +9891,7 @@
     "version": "v3.7.0"
   },
   "ULTRAPROMAX": {
-    "Expiry": "0",
+    "Expiry": "1",
     "admin_btn": "ADMIN",
     "dialog_show": true,
     "footer": "Powered by",
@@ -10003,6 +10031,13 @@
         "expirydate": "22-04-2026",
         "key": "FWC13MTRB0VE",
         "user": "Dil khush khan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "a9f845543df92e6d",
+        "expirydate": "18-04-2026",
+        "key": "RNTM61ATV4DJ",
+        "user": "Naveen Kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
