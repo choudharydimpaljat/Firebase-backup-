@@ -3959,7 +3959,7 @@
       {
         "Allowoffline": false,
         "device_id": "a776fc0c42838a10",
-        "expirydate": "24-01-2026",
+        "expirydate": "16-04-2026",
         "key": "73hsy6v53jb",
         "user": "sks"
       },
@@ -6120,9 +6120,9 @@
         "user": "Firoj ahamad"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "c4b6d3b8ab2f12dd",
-        "expirydate": "06-04-2026",
+        "expirydate": "22-04-2026",
         "key": "7VZ0B9PXMH5O",
         "user": "Pankaj Singh"
       },
@@ -6705,6 +6705,34 @@
         "device_id": "798eea077b41a8be",
         "expirydate": "23-04-2026",
         "key": "JTIB7SCE7EJV",
+        "user": "Mahboob Alam"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "473776b950df440c",
+        "expirydate": "27-04-2026",
+        "key": "ZBXUF03XU95Z",
+        "user": "Akash Singh"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "71f5bf9d0ee586a7",
+        "expirydate": "22-04-2026",
+        "key": "4AB04JKMLSXB",
+        "user": "Guddu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "644991f19b09bd55",
+        "expirydate": "23-04-2026",
+        "key": "8T4YTYPL3ZZJ",
+        "user": "Naveen Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "10f7c14bc25ef1a5",
+        "expirydate": "23-04-2026",
+        "key": "FM1BHGIM6FMH",
         "user": "Mahboob Alam"
       }
     ],
@@ -10052,6 +10080,20 @@
         "expirydate": "24-04-2026",
         "key": "ZZQ43DCD1J2V",
         "user": "Pk kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "1d3383430033d609",
+        "expirydate": "22-04-2026",
+        "key": "H07CPCOOQH1L",
+        "user": "Chinu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "6a5771b0d7ac0c06",
+        "expirydate": "07-05-2026",
+        "key": "CORXWWWFQMRC",
+        "user": "Vipin yadav"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
