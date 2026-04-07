@@ -1,6 +1,6 @@
 {
   "PRO": {
-    "Expiry": "2",
+    "Expiry": "1",
     "admin_btn": "ADMIN",
     "dialog_show": true,
     "footer": "◎ Powered by ◎",
@@ -6720,6 +6720,27 @@
         "expirydate": "22-04-2026",
         "key": "4AB04JKMLSXB",
         "user": "Guddu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "644991f19b09bd55",
+        "expirydate": "23-04-2026",
+        "key": "8T4YTYPL3ZZJ",
+        "user": "Naveen Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "10f7c14bc25ef1a5",
+        "expirydate": "23-04-2026",
+        "key": "FM1BHGIM6FMH",
+        "user": "Mahboob Alam"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "29593b62197b0a7d",
+        "expirydate": "23-04-2026",
+        "key": "EENJCF14ES9V",
+        "user": "Pankaj Singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -9908,10 +9929,10 @@
     "Expiry": "1",
     "admin_btn": "ADMIN",
     "dialog_show": true,
-    "footer": "Powered by",
-    "footer_name": "NMMSMOD",
+    "footer": "◎ Powered by ◎",
+    "footer_name": "ㅤNMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
-    "key_hint": "Enter Activation Code",
+    "key_hint": "Enter activation code",
     "keys": [
       {
         "Allowoffline": true,
@@ -10073,6 +10094,41 @@
         "expirydate": "22-04-2026",
         "key": "H07CPCOOQH1L",
         "user": "Chinu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "6a5771b0d7ac0c06",
+        "expirydate": "07-05-2026",
+        "key": "CORXWWWFQMRC",
+        "user": "Vipin yadav"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "5493ed11b64201d4",
+        "expirydate": "23-04-2026",
+        "key": "GZYSIBAPDWGH",
+        "user": "Alok"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "a2e658331888b101",
+        "expirydate": "07-05-2026",
+        "key": "PX7RFE4AMMQ5",
+        "user": "aj"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "80b9864ea64e10e9",
+        "expirydate": "22-04-2026",
+        "key": "XB91J5WXIIBN",
+        "user": "UPPARA Nemakallappa"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "9d869e352c2d2a5a",
+        "expirydate": "22-04-2026",
+        "key": "5VZJADN4IY9A",
+        "user": "Anoop raj"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
