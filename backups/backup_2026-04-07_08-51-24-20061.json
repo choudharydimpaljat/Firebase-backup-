@@ -5037,7 +5037,7 @@
       {
         "Allowoffline": false,
         "device_id": "2d2e1a0e79756ecc",
-        "expirydate": "01-04-2026",
+        "expirydate": "23-04-2026",
         "key": "LWZQMA7FL3EB",
         "user": "Dabalu pandit"
       },
@@ -5856,7 +5856,7 @@
       {
         "Allowoffline": true,
         "device_id": "abc0b82599bfc3d8",
-        "expirydate": "19-04-2026",
+        "expirydate": "21-04-2026",
         "key": "Shakir",
         "user": "Sheikh Shakir Ali"
       },
@@ -6664,6 +6664,34 @@
         "expirydate": "21-04-2026",
         "key": "DHIL5I1KLSWM",
         "user": "kishor"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "0ec64e63f5856d81",
+        "expirydate": "06-05-2026",
+        "key": "4ZTQDIZUIYVH",
+        "user": "Sk majhi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "8f9155d5a5a6bdaa",
+        "expirydate": "23-04-2026",
+        "key": "JTKDCBDGH236",
+        "user": "Mahaboob Alam"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6e3ca761188ec258",
+        "expirydate": "23-04-2026",
+        "key": "VBQO6QP35BOW",
+        "user": "Guddu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "63132387d1a8ec15",
+        "expirydate": "23-04-2026",
+        "key": "698XL6BFFEH7",
+        "user": "Mahboob Alam"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -7662,7 +7690,7 @@
       {
         "Allowoffline": false,
         "device_id": "98be14a69e86a46e",
-        "expirydate": "05-04-2026",
+        "expirydate": "06-05-2026",
         "key": "4SVF8P69RLOW",
         "user": "Raj shree"
       },
@@ -7711,7 +7739,7 @@
       {
         "Allowoffline": false,
         "device_id": "f76d00a11937f772",
-        "expirydate": "07-04-2026",
+        "expirydate": "23-04-2026",
         "key": "3GGUTHN4PNIR",
         "user": "Ramalingeswara"
       },
@@ -9828,6 +9856,13 @@
         "expirydate": "21-04-2026",
         "key": "1KL3X4J64INV",
         "user": "Ravi muchu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "81f38429eda5870b",
+        "expirydate": "22-04-2026",
+        "key": "ST2EQ7H946AD",
+        "user": "Ravi muchu"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -9835,9 +9870,9 @@
     "version": "v3.7.0"
   },
   "ULTRAPROMAX": {
-    "Expiry": "2",
+    "Expiry": "1",
     "admin_btn": "ADMIN",
-    "dialog_show": true,
+    "dialog_show": false,
     "footer": "Powered by",
     "footer_name": "NMMSMOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
@@ -9968,6 +10003,13 @@
         "expirydate": "06-05-2026",
         "key": "9UBZSITPLVYG",
         "user": "Addu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "9b0e7df63cf6d3ed",
+        "expirydate": "22-04-2026",
+        "key": "FWC13MTRB0VE",
+        "user": "Dil khush khan"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
