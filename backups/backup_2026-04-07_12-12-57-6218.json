@@ -3959,7 +3959,7 @@
       {
         "Allowoffline": false,
         "device_id": "a776fc0c42838a10",
-        "expirydate": "24-01-2026",
+        "expirydate": "16-04-2026",
         "key": "73hsy6v53jb",
         "user": "sks"
       },
@@ -6120,9 +6120,9 @@
         "user": "Firoj ahamad"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "c4b6d3b8ab2f12dd",
-        "expirydate": "06-04-2026",
+        "expirydate": "22-04-2026",
         "key": "7VZ0B9PXMH5O",
         "user": "Pankaj Singh"
       },
@@ -6706,6 +6706,20 @@
         "expirydate": "23-04-2026",
         "key": "JTIB7SCE7EJV",
         "user": "Mahboob Alam"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "473776b950df440c",
+        "expirydate": "27-04-2026",
+        "key": "ZBXUF03XU95Z",
+        "user": "Akash Singh"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "71f5bf9d0ee586a7",
+        "expirydate": "22-04-2026",
+        "key": "4AB04JKMLSXB",
+        "user": "Guddu"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6714,12 +6728,12 @@
   },
   "PROMAX": {
     "Expiry": "1",
-    "admin_btn": "Admin",
+    "admin_btn": "ADMIN",
     "dialog_show": true,
-    "footer": "◎ Powered by ◎ㅤ",
-    "footer_name": "NMMS MOD",
-    "info": "𝙵𝚘𝚛 𝙰𝚌𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚍𝚎 :- 𝙲𝚘𝚙𝚢 𝚢𝚘𝚞𝚛 𝚊𝚙𝚔 𝚒𝚍 & 𝚜𝚎𝚗𝚍 𝚒𝚝 𝚝𝚘 𝚊𝚍𝚖𝚒𝚗",
-    "key_hint": "Enter activation code",
+    "footer": "Powered by",
+    "footer_name": "NMMSMOD",
+    "info": "For Activation Code :- Copy your apk id & send it to admin",
+    "key_hint": "Enter Activation Code",
     "keys": [
       {
         "Allowoffline": true,
@@ -9884,17 +9898,10 @@
         "expirydate": "08-05-2026",
         "key": "LXSQMP1H2737",
         "user": "Yelaka Rajasekhar"
-      },
-      {
-        "Allowoffline": true,
-        "device_id": "473776b950df440c",
-        "expirydate": "22-04-2026",
-        "key": "SGSSPXKRRJSD",
-        "user": "Akash Singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
-    "title": "Face Auth Pro Max",
+    "title": "FACE AUTH PRO MAX",
     "version": "v3.7.0"
   },
   "ULTRAPROMAX": {
@@ -10052,6 +10059,27 @@
         "expirydate": "23-04-2026",
         "key": "X03S2HOJX879",
         "user": "Satyam vip"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6d351c0d1dc9262d",
+        "expirydate": "24-04-2026",
+        "key": "ZZQ43DCD1J2V",
+        "user": "Pk kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "1d3383430033d609",
+        "expirydate": "22-04-2026",
+        "key": "H07CPCOOQH1L",
+        "user": "Chinu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "6a5771b0d7ac0c06",
+        "expirydate": "07-05-2026",
+        "key": "CORXWWWFQMRC",
+        "user": "Vipin yadav"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
