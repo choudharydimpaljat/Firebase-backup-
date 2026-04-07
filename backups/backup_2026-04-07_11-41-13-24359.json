@@ -6647,7 +6647,7 @@
       {
         "Allowoffline": true,
         "device_id": "b372be1812830918",
-        "expirydate": "07-04-2026",
+        "expirydate": "22-04-2026",
         "key": "VWIBGX0GW1BK",
         "user": "Satyam vip"
       },
@@ -6675,7 +6675,7 @@
       {
         "Allowoffline": false,
         "device_id": "8f9155d5a5a6bdaa",
-        "expirydate": "23-04-2026",
+        "expirydate": "23-04-20",
         "key": "JTKDCBDGH236",
         "user": "Mahaboob Alam"
       },
@@ -6714,12 +6714,12 @@
   },
   "PROMAX": {
     "Expiry": "1",
-    "admin_btn": "Admin",
+    "admin_btn": "ADMIN",
     "dialog_show": true,
-    "footer": "◎ Powered by ◎ㅤ",
-    "footer_name": "NMMS MOD",
-    "info": "𝙵𝚘𝚛 𝙰𝚌𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚍𝚎 :- 𝙲𝚘𝚙𝚢 𝚢𝚘𝚞𝚛 𝚊𝚙𝚔 𝚒𝚍 & 𝚜𝚎𝚗𝚍 𝚒𝚝 𝚝𝚘 𝚊𝚍𝚖𝚒𝚗",
-    "key_hint": "Enter activation code",
+    "footer": "Powered by",
+    "footer_name": "NMMSMOD",
+    "info": "For Activation Code :- Copy your apk id & send it to admin",
+    "key_hint": "Enter Activation Code",
     "keys": [
       {
         "Allowoffline": true,
@@ -9884,10 +9884,17 @@
         "expirydate": "08-05-2026",
         "key": "LXSQMP1H2737",
         "user": "Yelaka Rajasekhar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "473776b950df440c",
+        "expirydate": "22-04-2026",
+        "key": "SGSSPXKRRJSD",
+        "user": "Akash Singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
-    "title": "Face Auth Pro Max",
+    "title": "FACE AUTH PRO MAX",
     "version": "v3.7.0"
   },
   "ULTRAPROMAX": {
@@ -10035,9 +10042,23 @@
       {
         "Allowoffline": false,
         "device_id": "a9f845543df92e6d",
-        "expirydate": "18-04-20",
+        "expirydate": "18-04-2026",
         "key": "RNTM61ATV4DJ",
         "user": "Naveen Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "b372be1812830918",
+        "expirydate": "23-04-2026",
+        "key": "X03S2HOJX879",
+        "user": "Satyam vip"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6d351c0d1dc9262d",
+        "expirydate": "24-04-2026",
+        "key": "ZZQ43DCD1J2V",
+        "user": "Pk kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
