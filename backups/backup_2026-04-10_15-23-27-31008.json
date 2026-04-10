@@ -6808,7 +6808,7 @@
       {
         "Allowoffline": true,
         "device_id": "510b676da3cb2ee3",
-        "expirydate": "23-04-2026",
+        "expirydate": "24-04-2026",
         "key": "3ULRZVJB8MTX",
         "user": "Alok kumar"
       },
@@ -6843,7 +6843,7 @@
       {
         "Allowoffline": true,
         "device_id": "689e4f80b348952e",
-        "expirydate": "23-04-2026",
+        "expirydate": "24-04-2026",
         "key": "R1WLVZKX0NRH",
         "user": "Alok kumar"
       },
@@ -7116,7 +7116,7 @@
       {
         "Allowoffline": true,
         "device_id": "440a1aefe7944748",
-        "expirydate": "25-04-2026",
+        "expirydate": "26-04-2026",
         "key": "6DUQFCEDKZMR",
         "user": "Alok kumar"
       },
@@ -7154,6 +7154,13 @@
         "expirydate": "25-04-2026",
         "key": "IFT365QBDTSB",
         "user": "Pankaj Singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "f14f0db9519f7367",
+        "expirydate": "26-04-2026",
+        "key": "PREVEX24DRKH",
+        "user": "Alok kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -10840,7 +10847,7 @@
       {
         "Allowoffline": true,
         "device_id": "c19345d33a9f2e62",
-        "expirydate": "09-05-2026",
+        "expirydate": "09-05-20",
         "key": "AS5177ZAQ2RQ",
         "user": "Rajendra Khinibudi"
       },
@@ -11001,9 +11008,30 @@
       {
         "Allowoffline": false,
         "device_id": "80f1a60d38f7dccb",
-        "expirydate": "10-05-2026",
+        "expirydate": "11-05-2026",
         "key": "1A69B7ODLR4W",
         "user": "Rajendra Khinibudi"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "304f02050cb61a15",
+        "expirydate": "11-05-2026",
+        "key": "W50KK6CM8CH2",
+        "user": "Rajendra Khinibudi"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "c51909d3f127f40f",
+        "expirydate": "10-05-2026",
+        "key": "02VEQGCFGQHE",
+        "user": "Rajendra Khinibudi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "8edc3d1dbe0468bd",
+        "expirydate": "26-04-2026",
+        "key": "ZPLHYTT2FK9Y",
+        "user": "Mithilesh Kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
