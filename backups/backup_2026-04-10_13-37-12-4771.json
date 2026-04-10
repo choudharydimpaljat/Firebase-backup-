@@ -4253,7 +4253,7 @@
       {
         "Allowoffline": false,
         "device_id": "9b24342902e2710a",
-        "expirydate": "01-04-2026",
+        "expirydate": "26-04-2026",
         "key": "HRHCXEQXY9AR",
         "user": "Ac study Sangita Kumari"
       },
@@ -5926,7 +5926,7 @@
       {
         "Allowoffline": false,
         "device_id": "4c53543d66ce5162",
-        "expirydate": "05-04-2026",
+        "expirydate": "26-04-2026",
         "key": "48DS6UUG7ZYB",
         "user": "Shivam Kumar"
       },
@@ -7126,6 +7126,34 @@
         "expirydate": "25-04-2026",
         "key": "NC72IB7SGXEV",
         "user": "Saurabh Shakya"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "fe024a4d13310150",
+        "expirydate": "26-04-2026",
+        "key": "BO3AES0WS3OK",
+        "user": "Dilip akela"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "58c6df7840fc38e6",
+        "expirydate": "25-04-2026",
+        "key": "RQZ2TSBJFKKS",
+        "user": "Ghanshyam kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "e6f45b322c61e935",
+        "expirydate": "25-04-2026",
+        "key": "EBX34HF84S4Y",
+        "user": "Dilip akela"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6c383ddd4d367ef2",
+        "expirydate": "25-04-2026",
+        "key": "IFT365QBDTSB",
+        "user": "Pankaj Singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -10826,7 +10854,7 @@
       {
         "Allowoffline": false,
         "device_id": "a516dd1846c0955c",
-        "expirydate": "10-05-20",
+        "expirydate": "11-05-2026",
         "key": "IZUXR0WHLGHC",
         "user": "Rajendra Khinibudi"
       },
@@ -10955,6 +10983,27 @@
         "expirydate": "25-04-2026",
         "key": "GC6N1OF9ZU5J",
         "user": "Mithilesh Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "b237e5f4213a5add",
+        "expirydate": "11-05-2026",
+        "key": "I7GAYP0EOOE5",
+        "user": "Rajendra Khinibudi"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "3c5335b95f876e5b",
+        "expirydate": "10-05-2026",
+        "key": "EWD24O49E429",
+        "user": "Shakya g"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "80f1a60d38f7dccb",
+        "expirydate": "10-05-2026",
+        "key": "1A69B7ODLR4W",
+        "user": "Rajendra Khinibudi"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
