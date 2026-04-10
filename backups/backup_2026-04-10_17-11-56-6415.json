@@ -5793,7 +5793,7 @@
       {
         "Allowoffline": false,
         "device_id": "0e7f343d1494b597",
-        "expirydate": "04-04-2026",
+        "expirydate": "26-04-2026",
         "key": "Saleem",
         "user": "Shaikh shakir ali"
       },
@@ -7160,6 +7160,48 @@
         "device_id": "f14f0db9519f7367",
         "expirydate": "26-04-2026",
         "key": "PREVEX24DRKH",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "b0ad5732a00f947d",
+        "expirydate": "26-04-20",
+        "key": "X2YNMXXRZ0U1",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "b0ad5732a00f947d",
+        "expirydate": "25-04-2026",
+        "key": "56Z43ILD035R",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "caecdddbe7e11d38",
+        "expirydate": "11-05-2026",
+        "key": "K0EOT6ZWX1JM",
+        "user": "rawat Jii"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "f5500d6e94f94a08",
+        "expirydate": "26-04-2026",
+        "key": "LH6Y5O9UKN87",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "4ff7352ae1f247e3",
+        "expirydate": "26-04-2026",
+        "key": "V3B3LS0I7NTG",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "955972e008ad1d52",
+        "expirydate": "26-04-2026",
+        "key": "SN6AU3M42SZV",
         "user": "Alok kumar"
       }
     ],
@@ -11032,6 +11074,27 @@
         "expirydate": "26-04-2026",
         "key": "ZPLHYTT2FK9Y",
         "user": "Mithilesh Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "56a497fa0a6000ee",
+        "expirydate": "27-04-2026",
+        "key": "CV9DPODOCGLV",
+        "user": "S yadav"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "ea2b811c32541b02",
+        "expirydate": "11-05-2026",
+        "key": "LM246GUT093K",
+        "user": "Raja"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "d7d9017bd9acedb0",
+        "expirydate": "26-04-2026",
+        "key": "KDM2Q3QI49IV",
+        "user": "itz_ xerxes"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
