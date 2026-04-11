@@ -4722,7 +4722,7 @@
       {
         "Allowoffline": true,
         "device_id": "821585f70d8d306b",
-        "expirydate": "11-04-2026",
+        "expirydate": "27-04-2026",
         "key": "KNBGT385AGA2",
         "user": "Karan Nathan"
       },
@@ -6905,7 +6905,7 @@
       },
       {
         "Allowoffline": true,
-        "device_id": "ba347b548cf8e71d",
+        "device_id": "8146c5d3fb708cef",
         "expirydate": "24-04-2026",
         "key": "A5IF3095XI2H",
         "user": "SK"
@@ -7060,7 +7060,7 @@
       {
         "Allowoffline": false,
         "device_id": "6bd8dc8a6b745317",
-        "expirydate": "23-04-20",
+        "expirydate": "24-04-2026",
         "key": "L81E36Y2DM6D",
         "user": "Rj raghav"
       },
@@ -7247,7 +7247,7 @@
         "user": "Mahi rawat"
       }
     ],
-    "telegram": "https://t.me/nmmsmod",
+    "telegram": "",
     "title": "FACE AUTH PRO",
     "version": "v3.7.0"
   },
@@ -7256,9 +7256,9 @@
     "admin_btn": "ADMIN",
     "dialog_show": true,
     "footer": "◎ Powered by ◎",
-    "footer_name": "ㅤNMMSMOD",
+    "footer_name": "ㅤNMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
-    "key_hint": "Enter Activation Code",
+    "key_hint": "Enter activation code",
     "keys": [
       {
         "Allowoffline": true,
@@ -10460,8 +10460,8 @@
         "user": "Yelaka Rajasekhar"
       }
     ],
-    "telegram": "https://t.me/nmmsmod",
-    "title": "FACE AUTH PRO MAX",
+    "telegram": "",
+    "title": "FACE AUTH ULTRA",
     "version": "v3.7.0"
   },
   "ULTRAPROMAX": {
@@ -10474,7 +10474,7 @@
     "key_hint": "Enter activation code",
     "keys": [
       {
-        "Allowoffline": true,
+        "Allowoffline": false,
         "device_id": "b7fcd04f7c59af3d",
         "expirydate": "20-04-2026",
         "key": "opjat",
@@ -11203,13 +11203,27 @@
       },
       {
         "Allowoffline": true,
-        "device_id": "b6ff8ec5f6efc66d",
+        "device_id": "60b84baed729e86d",
+        "expirydate": "12-05-2026",
+        "key": "YAAHJEQSMXCP",
+        "user": "Piyush kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "02688498dac3f5c4",
         "expirydate": "27-04-2026",
-        "key": "AMTIXKDI9PH8",
-        "user": "Ranbir Kumar"
+        "key": "9451P5F79ZWK",
+        "user": "Jitendra"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "13cd325cfc0ee939",
+        "expirydate": "27-04-2026",
+        "key": "8JRBBFD0T8WF",
+        "user": "Piyush kumar"
       }
     ],
-    "telegram": "https://t.me/nmmsmod",
+    "telegram": "",
     "title": "FACE AUTH ULTRA",
     "version": "v3.7.0"
   }
