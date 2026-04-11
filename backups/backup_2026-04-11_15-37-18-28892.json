@@ -4743,7 +4743,7 @@
       {
         "Allowoffline": false,
         "device_id": "7c34f54b7ef3cd99",
-        "expirydate": "01-04-2026",
+        "expirydate": "27-04-2026",
         "key": "YF79YVL2CWPY",
         "user": "Sunil yadav"
       },
@@ -7245,6 +7245,27 @@
         "expirydate": "12-05-2026",
         "key": "F4D8U20KC21X",
         "user": "Mahi rawat"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6a063db7734aa0ac",
+        "expirydate": "27-04-2026",
+        "key": "3A2AXZHV8EVR",
+        "user": "sadan kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "01a87a81692c4e25",
+        "expirydate": "12-05-2026",
+        "key": "GZD79TWWAAKM",
+        "user": "Sachin Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "3b8c7cdf76dabc9b",
+        "expirydate": "12-05-2026",
+        "key": "O1ATQPP61V0N",
+        "user": "bobby raja"
       }
     ],
     "telegram": "",
@@ -8761,7 +8782,7 @@
       {
         "Allowoffline": true,
         "device_id": "1591e0cb53b925b9",
-        "expirydate": "11-04-2026",
+        "expirydate": "12-05-2026",
         "key": "9EPRPCPUXUCN",
         "user": "Ram"
       },
@@ -10458,6 +10479,13 @@
         "expirydate": "09-05-2026",
         "key": "I9STB4DHC6AA",
         "user": "Yelaka Rajasekhar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6fa570535dbbc0c0",
+        "expirydate": "12-05-2026",
+        "key": "NTDRH1Y16TZD",
+        "user": "Yelaka Rajasekhar"
       }
     ],
     "telegram": "",
@@ -11221,6 +11249,34 @@
         "expirydate": "27-04-2026",
         "key": "8JRBBFD0T8WF",
         "user": "Piyush kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "d98f1683b904a6ff",
+        "expirydate": "28-04-2026",
+        "key": "MMLT86G6WQ44",
+        "user": "Sahab yadav"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "3e98b18a286b331e",
+        "expirydate": "12-05-2026",
+        "key": "825N17N9SUJJ",
+        "user": "Rajendra saxena"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "54664abbfb453649",
+        "expirydate": "12-05-2026",
+        "key": "1LHUOHXL4D4Y",
+        "user": "udran bhatra"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "5c0325bf06529dc2",
+        "expirydate": "12-05-2026",
+        "key": "8ZCWZA7D452N",
+        "user": "Rajendra Khinibudi"
       }
     ],
     "telegram": "",
