@@ -4743,7 +4743,7 @@
       {
         "Allowoffline": false,
         "device_id": "7c34f54b7ef3cd99",
-        "expirydate": "01-04-2026",
+        "expirydate": "27-04-2026",
         "key": "YF79YVL2CWPY",
         "user": "Sunil yadav"
       },
@@ -7245,6 +7245,48 @@
         "expirydate": "12-05-2026",
         "key": "F4D8U20KC21X",
         "user": "Mahi rawat"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6a063db7734aa0ac",
+        "expirydate": "27-04-2026",
+        "key": "3A2AXZHV8EVR",
+        "user": "sadan kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "01a87a81692c4e25",
+        "expirydate": "12-05-2026",
+        "key": "GZD79TWWAAKM",
+        "user": "Sachin Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "3b8c7cdf76dabc9b",
+        "expirydate": "12-05-2026",
+        "key": "O1ATQPP61V0N",
+        "user": "bobby raja"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "67128ef9cc5d0060",
+        "expirydate": "27-04-2026",
+        "key": "NKHYSO0XWE9H",
+        "user": "MR s"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "3039b4046e04e4ca",
+        "expirydate": "27-04-2026",
+        "key": "OTIWU1F960N8",
+        "user": "Dk rawan"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "136923921363ea55",
+        "expirydate": "12-05-2026",
+        "key": "VRBZ0VBZMRT0",
+        "user": "Ajeet shukla"
       }
     ],
     "telegram": "",
@@ -10458,6 +10500,13 @@
         "expirydate": "09-05-2026",
         "key": "I9STB4DHC6AA",
         "user": "Yelaka Rajasekhar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6fa570535dbbc0c0",
+        "expirydate": "12-05-2026",
+        "key": "NTDRH1Y16TZD",
+        "user": "Yelaka Rajasekhar"
       }
     ],
     "telegram": "",
@@ -11225,9 +11274,51 @@
       {
         "Allowoffline": true,
         "device_id": "d98f1683b904a6ff",
-        "expirydate": "13-04-2026",
+        "expirydate": "28-04-2026",
         "key": "MMLT86G6WQ44",
         "user": "Sahab yadav"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "3e98b18a286b331e",
+        "expirydate": "12-05-2026",
+        "key": "825N17N9SUJJ",
+        "user": "Rajendra saxena"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "54664abbfb453649",
+        "expirydate": "12-05-2026",
+        "key": "1LHUOHXL4D4Y",
+        "user": "udran bhatra"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "5c0325bf06529dc2",
+        "expirydate": "12-05-2026",
+        "key": "8ZCWZA7D452N",
+        "user": "Rajendra Khinibudi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "d83e5ceeaf39bcda",
+        "expirydate": "12-05-2026",
+        "key": "AYWVVZ7BL5Q8",
+        "user": "Masti"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "7cf6069888ea3008",
+        "expirydate": "27-04-2026",
+        "key": "JR593GM13Y2A",
+        "user": "itz_ xerxes"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "24957db638e2307b",
+        "expirydate": "28-04-2026",
+        "key": "MZXKJ3PQ7E8X",
+        "user": "itz_ xerxes"
       }
     ],
     "telegram": "",
