@@ -3637,7 +3637,7 @@
       {
         "Allowoffline": true,
         "device_id": "cdfe97fa5881a78c",
-        "expirydate": "11-04-2026",
+        "expirydate": "22-04-2026",
         "key": "3c14c54129",
         "user": "Balwinr singh"
       },
@@ -5408,7 +5408,7 @@
       {
         "Allowoffline": false,
         "device_id": "7ed91354bdbc883e",
-        "expirydate": "01-04-2026",
+        "expirydate": "27-04-2026",
         "key": "9HJP0R3U0ETP",
         "user": "Sagar Sahukar"
       },
@@ -7228,7 +7228,7 @@
       {
         "Allowoffline": true,
         "device_id": "4d7017e66fa9127b",
-        "expirydate": "27-04-2026",
+        "expirydate": "27-04-20",
         "key": "QCNE8FA7IEIG",
         "user": "Nitish Kumar"
       },
@@ -7328,6 +7328,41 @@
         "device_id": "2807fdef99741b58",
         "expirydate": "27-04-2026",
         "key": "QI9W2PTWMQP4",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "ff2dc3cb0122175e",
+        "expirydate": "27-04-2026",
+        "key": "TSE68CVSRP7Y",
+        "user": "Shobhasar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "d606160ca6e8ea78",
+        "expirydate": "27-04-2026",
+        "key": "QJJ303U220X3",
+        "user": "Akash Singh"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "1cc0daac786f667f",
+        "expirydate": "27-04-2026",
+        "key": "1SOM5O26RKQS",
+        "user": "Nitesh Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "17e61fb9a6180750",
+        "expirydate": "28-04-2026",
+        "key": "CZI06X10C9Q5",
+        "user": "Mrs"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "023c42d0461e9919",
+        "expirydate": "28-04-2026",
+        "key": "CZD7W8LGNVSH",
         "user": "Alok kumar"
       }
     ],
@@ -11368,6 +11403,20 @@
         "expirydate": "28-04-2026",
         "key": "MZXKJ3PQ7E8X",
         "user": "itz_ xerxes"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "f981a8fc6d327141",
+        "expirydate": "13-05-2026",
+        "key": "R404WEXQCXC7",
+        "user": "Ajit singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "f81e4ce53151ddef",
+        "expirydate": "28-04-2026",
+        "key": "357YZXFI445O",
+        "user": "Raju chy"
       }
     ],
     "telegram": "",
