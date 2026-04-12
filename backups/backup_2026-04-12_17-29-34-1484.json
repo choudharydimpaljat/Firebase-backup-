@@ -7394,11 +7394,25 @@
         "user": "Kunku"
       },
       {
-        "Allowoffline": false,
-        "device_id": "c5b618079fd8140gv",
+        "Allowoffline": true,
+        "device_id": "06eec4082f2822ff",
+        "expirydate": "27-04-2026",
+        "key": "XKO6T5J9W3WJ",
+        "user": "Irfan alii"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "58d713f75636b970",
+        "expirydate": "27-04-2026",
+        "key": "ZPP0ZRF32QU7",
+        "user": "Irfan alii"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "c5b618079fd81402",
         "expirydate": "28-04-2026",
-        "key": "UDZFFJ1O3YUB",
-        "user": "Alok kumar"
+        "key": "IHRZIX4WJAHX",
+        "user": "Alok Singh"
       }
     ],
     "telegram": "",
@@ -11501,6 +11515,20 @@
         "expirydate": "13-05-2026",
         "key": "0Z3S4ODO305Y",
         "user": "Rajendra Khinibudi"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "c5b618079fd81402",
+        "expirydate": "28-04-2026",
+        "key": "DBS9TCBJYZBM",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "e40b207951a1c426",
+        "expirydate": "13-05-2026",
+        "key": "CJMMLSQP7CGO",
+        "user": "Sankar Chaganti"
       }
     ],
     "telegram": "",
