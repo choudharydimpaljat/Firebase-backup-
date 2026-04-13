@@ -2055,7 +2055,7 @@
       {
         "Allowoffline": false,
         "device_id": "ca9210860b161ac9",
-        "expirydate": "19-03-2026",
+        "expirydate": "29-04-2026",
         "key": "54d9eue66667",
         "user": "back bencher"
       },
@@ -4335,9 +4335,9 @@
         "user": "CSC"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "1c4f2855614ad9e7",
-        "expirydate": "05-03-2026",
+        "expirydate": "29-04-2026",
         "key": "A7POFB9WZEJJ",
         "user": "Ram ram"
       },
@@ -7427,11 +7427,39 @@
         "expirydate": "28-04-2026",
         "key": "ZP6FUC6RHTB1",
         "user": "Dilip akela"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "f6d541ba4940447c",
+        "expirydate": "28-04-2026",
+        "key": "AXZMDXET0D1Q",
+        "user": "Dharmendra Kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "be970ecabd414d49",
+        "expirydate": "29-04-2026",
+        "key": "SN7YHSUENTCW",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "49242881b123e1f2",
+        "expirydate": "29-04-2026",
+        "key": "LWNYY8Y3OP5T",
+        "user": "Dimpal kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "1be5de15ec293f5a",
+        "expirydate": "28-04-2026",
+        "key": "SNU1BXQ7PCNP",
+        "user": "Irfan alii"
       }
     ],
-    "telegram": "",
+    "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH PRO",
-    "version": "v3.7.0"
+    "version": "v3.7.1"
   },
   "PROMAX": {
     "Expiry": "1",
@@ -9636,7 +9664,7 @@
       {
         "Allowoffline": false,
         "device_id": "2686077393be310e",
-        "expirydate": "02-04-2026",
+        "expirydate": "19-04-2026",
         "key": "TAUY4NIC2QWW",
         "user": "Rishabh jain"
       },
@@ -9664,7 +9692,7 @@
       {
         "Allowoffline": true,
         "device_id": "f8737cdf48936f61",
-        "expirydate": "18-04-2026",
+        "expirydate": "18-04-20",
         "key": "RI6711GN8NYA",
         "user": "Rishabh jain"
       },
@@ -10661,11 +10689,18 @@
         "expirydate": "23-04-2026",
         "key": "NQA5WFS1LEKV",
         "user": "Dharmendra Kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "1c4f2855614ad9e7",
+        "expirydate": "29-04-20",
+        "key": "C8YYWPFNDWAM",
+        "user": "Ram"
       }
     ],
-    "telegram": "",
+    "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH PRO MAX",
-    "version": "v3.7.0"
+    "version": "v3.7.1"
   },
   "ULTRAPROMAX": {
     "Expiry": "1",
@@ -10938,7 +10973,7 @@
       {
         "Allowoffline": true,
         "device_id": "2e58f804e1aa9c62",
-        "expirydate": "08-05-2026",
+        "expirydate": "08-05-20",
         "key": "4FJBGRKUBR7W",
         "user": "Karan Kumar"
       },
@@ -11557,10 +11592,66 @@
         "expirydate": "28-04-2026",
         "key": "IRQ581BCS8LT",
         "user": "Aryan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "8e76d1742a00ec4a",
+        "expirydate": "28-04-2026",
+        "key": "DGO4CIOKJD2J",
+        "user": "Aryan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "e4b4823a867a5437",
+        "expirydate": "29-04-2026",
+        "key": "op",
+        "user": "Op"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "de591ebe05e2f685",
+        "expirydate": "13-05-2026",
+        "key": "N4LDJ0NO5VLL",
+        "user": "Priyanka"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "16a523b6a6890aa9",
+        "expirydate": "14-05-2026",
+        "key": "9SMRSH5DURLK",
+        "user": "Rajkumar Raghuvansi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "a833f09ff4f18485",
+        "expirydate": "14-05-2026",
+        "key": "2ZQVT6R9VGWP",
+        "user": "Anshul Gupta"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "035c929b0c0cfdd1",
+        "expirydate": "13-05-2026",
+        "key": "op10",
+        "user": "Op"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "620e268a9ea667da",
+        "expirydate": "09-05-2026",
+        "key": "TSEQZC0KP00W",
+        "user": "Piyush kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "2327ebdf0f79da54",
+        "expirydate": "29-04-2026",
+        "key": "8USYT92C6HPV",
+        "user": "Rjajj Gahhahaahhh"
       }
     ],
-    "telegram": "",
+    "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH ULTRA",
-    "version": "v3.7.0"
+    "version": "v3.7.1"
   }
 }
