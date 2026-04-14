@@ -2,7 +2,7 @@
   "PRO": {
     "Expiry": "1",
     "admin_btn": "ADMIN",
-    "dialog_show": true,
+    "dialog_show": false,
     "footer": "◎ Powered by ◎",
     "footer_name": "ㅤNMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
@@ -5043,7 +5043,7 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "62fbad1c18e6c9fa",
+        "device_id": "25b302bccae4ec30",
         "expirydate": "24-04-2026",
         "key": "5AFTMWT7PIPI",
         "user": "Gaurav jeetkk"
@@ -7616,6 +7616,41 @@
         "expirydate": "26-04-2026",
         "key": "YKO3377XRLOU",
         "user": "Shivam Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "5fd1b462f091ada2",
+        "expirydate": "30-04-2026",
+        "key": "81XAE6J978DK",
+        "user": "Irfan alii"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "ca8e34277db83f91",
+        "expirydate": "30-04-2026",
+        "key": "IUC2O9O9ISNZ",
+        "user": "Dilip akela"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "8a618b3355808405",
+        "expirydate": "29-04-2026",
+        "key": "8X1EVE1FY0V3",
+        "user": "Ayansh"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "39a990f534389664",
+        "expirydate": "15-05-2026",
+        "key": "3CDHWR6EQ5U8",
+        "user": "Ashok singh thakur"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "7021f4a018f6250a",
+        "expirydate": "29-04-2026",
+        "key": "3JWDK41X7CWH",
+        "user": "Kundan"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -10880,7 +10915,7 @@
   "ULTRAPROMAX": {
     "Expiry": "1",
     "admin_btn": "ADMIN",
-    "dialog_show": true,
+    "dialog_show": false,
     "footer": "◎ Powered by ◎",
     "footer_name": "ㅤNMMS MOD",
     "info": "For Activation Code :- Copy your apk id & send it to admin",
@@ -11693,7 +11728,7 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "f81e4ce53151ddef",
+        "device_id": "62df33bb45a4e0dc",
         "expirydate": "28-04-2026",
         "key": "357YZXFI445O",
         "user": "Raju chy"
@@ -11963,6 +11998,34 @@
         "expirydate": "15-05-2026",
         "key": "MQSSS04GF4K5",
         "user": "Mushkan singh"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "ec15802a648980e5",
+        "expirydate": "15-05-2026",
+        "key": "2X0PYTL7Z7A8",
+        "user": "Masti"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "f55e13545c635efa",
+        "expirydate": "15-05-2026",
+        "key": "SDRYRMEMII80",
+        "user": "Singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "1f2f06c337056831",
+        "expirydate": "12-05-2026",
+        "key": "CZSCDPGIA5H2",
+        "user": "Sandeep"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "d89fd4c10e245617",
+        "expirydate": "15-05-2026",
+        "key": "C47WMVJXRHT8",
+        "user": "Raju yadav"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
