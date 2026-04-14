@@ -7644,6 +7644,20 @@
         "expirydate": "15-05-2026",
         "key": "3CDHWR6EQ5U8",
         "user": "Ashok singh thakur"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "7021f4a018f6250a",
+        "expirydate": "29-04-2026",
+        "key": "3JWDK41X7CWH",
+        "user": "Kundan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "22cccf7cf2dd459f",
+        "expirydate": "15-05-2026",
+        "key": "ON5L67UXIBH9",
+        "user": "paean Kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -11721,7 +11735,7 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "f81e4ce53151ddef",
+        "device_id": "62df33bb45a4e0dc",
         "expirydate": "28-04-2026",
         "key": "357YZXFI445O",
         "user": "Raju chy"
@@ -12012,6 +12026,20 @@
         "expirydate": "12-05-2026",
         "key": "CZSCDPGIA5H2",
         "user": "Sandeep"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "d89fd4c10e245617",
+        "expirydate": "15-05-2026",
+        "key": "C47WMVJXRHT8",
+        "user": "Raju yadav"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "e7ef0f2d100db857",
+        "expirydate": "30-04-2026",
+        "key": "XNALSYBG4ASL",
+        "user": "Chandan mukhiya"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
