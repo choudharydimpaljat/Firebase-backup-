@@ -4151,6 +4151,111 @@
         "expirydate": "01-05-2026",
         "key": "EAHY1NM62LJ0",
         "user": "Pawan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "cb2dc34fe1828b59",
+        "expirydate": "30-04-2026",
+        "key": "GGFOIKKHF9C9",
+        "user": "Mukesh thakur"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "c5a6c7d70bea5463",
+        "expirydate": "01-05-2026",
+        "key": "17XKLAWX4X4S",
+        "user": "Gaurav Rastogi"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "ddea9b2d4e25c560",
+        "expirydate": "30-04-2026",
+        "key": "XO0LR6HCNEHX",
+        "user": "Shivam Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6d610334f55d44d3",
+        "expirydate": "30-04-2026",
+        "key": "B5WJ8EYEYDR3",
+        "user": "Dashratj Gujar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "1f2652f9fefd2461",
+        "expirydate": "30-04-2026",
+        "key": "WYAH6JODXO0I",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "e65efa349d2faca6",
+        "expirydate": "01-05-2026",
+        "key": "LY1X56O5CA99",
+        "user": "Nitesh Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "b741046e489e7ae2",
+        "expirydate": "01-05-2026",
+        "key": "JJL3SDVFT9NV",
+        "user": "Masti"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "fb0ca55453063bb9",
+        "expirydate": "01-05-2026",
+        "key": "2NXWHH2HJR5S",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "4619aae538034360",
+        "expirydate": "16-05-2026",
+        "key": "SZSA9HUFG04A",
+        "user": "Mahi rawat"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "aec1cdfd010fa28e",
+        "expirydate": "01-05-2026",
+        "key": "Mohd Islam",
+        "user": "Nizam ali pardhan"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "ca7d97ce48d2cf1e",
+        "expirydate": "01-05-2026",
+        "key": "HW8MYTODP4CP",
+        "user": "Masti"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "b4806cc7ce21d2dc",
+        "expirydate": "01-05-2026",
+        "key": "BHAP77Y0K1RI",
+        "user": "Piyush kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "53c89c619290349a",
+        "expirydate": "18-04-2026",
+        "key": "LXOPZVJ8TH6C",
+        "user": "Aarav"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "9dc1210f328d566f",
+        "expirydate": "16-05-2026",
+        "key": "NU0CXQUGWGBB",
+        "user": "Pilli Balanagulu balu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "8764c38fdbd8a6a9",
+        "expirydate": "01-05-2026",
+        "key": "M16NKNGLLI3W",
+        "user": "Rony singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -7861,6 +7966,41 @@
         "expirydate": "15-05-2026",
         "key": "I07V5UKT00GA",
         "user": "Ved pavi"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "6bd8dc8a6b745317",
+        "expirydate": "01-05-2026",
+        "key": "T9F138WMCZQP",
+        "user": "Rj raghav"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "acaa093a916a84cf",
+        "expirydate": "01-05-2026",
+        "key": "NPH5BUWDTRHG",
+        "user": "Mithilesh Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "7c2fe70f322c17de",
+        "expirydate": "01-05-2026",
+        "key": "PEF6Y2MNX6S6",
+        "user": "Shailendra Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "a2c9194095f51633",
+        "expirydate": "16-05-2026",
+        "key": "DBAXJ2D4JDII",
+        "user": "Pratap maurya"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "1f4d8d14cd1fe70c",
+        "expirydate": "01-05-2026",
+        "key": "JFFBMPJEKTC7",
+        "user": "Aryan"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
