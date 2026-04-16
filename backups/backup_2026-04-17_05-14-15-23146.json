@@ -102,7 +102,7 @@
       {
         "Allowoffline": false,
         "device_id": "b7fcd04f7c59af3d",
-        "expirydate": "16-04-2026",
+        "expirydate": "16-05-2026",
         "key": "opjat",
         "user": "op"
       },
@@ -718,7 +718,7 @@
       {
         "Allowoffline": false,
         "device_id": "c5b7b80e6323f471",
-        "expirydate": "02-04-2026",
+        "expirydate": "17-04-2026",
         "key": "54d92kua72ce",
         "user": "ugam sigh"
       },
@@ -2839,7 +2839,7 @@
       {
         "Allowoffline": true,
         "device_id": "5976e7fb07b75010",
-        "expirydate": "16-04-2026",
+        "expirydate": "02-05-2026",
         "key": "6ZFPCV0T0BOS",
         "user": "gopal rathore"
       },
@@ -4396,11 +4396,53 @@
         "expirydate": "02-05-2026",
         "key": "Mehar",
         "user": "Sheikh Shakir Ali"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "d562be9c9d126a99",
+        "expirydate": "03-05-2026",
+        "key": "6Q4QJS2MV3L5",
+        "user": "Aaditya pradhan"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "2e91870c30bef615",
+        "expirydate": "17-05-2026",
+        "key": "RJMH5VMQC6W7",
+        "user": "S k"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "3690f8c649fa37f7",
+        "expirydate": "17-05-2026",
+        "key": "4UV01QP5AXQO",
+        "user": "Pilli Balanagulu balu"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "7df409a059d79128",
+        "expirydate": "02-05-2026",
+        "key": "4EVC35KBN40X",
+        "user": "Udaya Jena"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "f4e9d79c72ce7101",
+        "expirydate": "02-05-2026",
+        "key": "COZ07Q4WSN9O",
+        "user": "Nitesh Kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "ddd97d9aeb6bd296",
+        "expirydate": "02-05-2026",
+        "key": "X48JPU3QZ5ZW",
+        "user": "Chandra dev Yadav"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH PRO",
-    "version": "v3.7.1"
+    "version": "v3.7.2"
   },
   "PROMAX": {
     "Expiry": "1",
@@ -6787,7 +6829,7 @@
       {
         "Allowoffline": false,
         "device_id": "6541474505ea0e1a",
-        "expirydate": "20-04-2026",
+        "expirydate": "20-04-20",
         "key": "9JVS33IFO8LJ",
         "user": "9783781251"
       },
@@ -6976,7 +7018,7 @@
     ],
     "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH PRO MAX",
-    "version": "v3.7.1"
+    "version": "v3.7.2"
   },
   "ULTRAPROMAX": {
     "Expiry": "1",
@@ -7787,7 +7829,7 @@
       },
       {
         "Allowoffline": true,
-        "device_id": "f981a8fc6d327141",
+        "device_id": "6e1d936d223e1ec2",
         "expirydate": "13-05-2026",
         "key": "R404WEXQCXC7",
         "user": "Ajit singh"
@@ -8229,6 +8271,6 @@
     ],
     "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH ULTRA",
-    "version": "v3.7.1"
+    "version": "v3.7.2"
   }
 }
