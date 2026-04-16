@@ -102,7 +102,7 @@
       {
         "Allowoffline": false,
         "device_id": "b7fcd04f7c59af3d",
-        "expirydate": "16-04-2026",
+        "expirydate": "16-05-2026",
         "key": "opjat",
         "user": "op"
       },
@@ -4368,11 +4368,39 @@
         "expirydate": "17-05-2026",
         "key": "Z1ZHF3K0HMGP",
         "user": "Sk"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "b27609c08a999b10",
+        "expirydate": "02-05-2026",
+        "key": "V6LSMUG2OTBZ",
+        "user": "satish"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "3f02f3547399a464",
+        "expirydate": "02-05-2026",
+        "key": "SS7K6H9RH2GE",
+        "user": "Bamkesh kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "5f5ccc5f96846d73",
+        "expirydate": "02-05-2026",
+        "key": "0R88BNPRTXXU",
+        "user": "Pilli Balanagulu balu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "d11eb5e7b25134dd",
+        "expirydate": "02-05-2026",
+        "key": "Mehar",
+        "user": "Sheikh Shakir Ali"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH PRO",
-    "version": "v3.7.1"
+    "version": "v3.7.2"
   },
   "PROMAX": {
     "Expiry": "1",
@@ -6948,7 +6976,7 @@
     ],
     "telegram": "https://t.me/nmmsmod",
     "title": "FACE AUTH PRO MAX",
-    "version": "v3.7.1"
+    "version": "v3.7.2"
   },
   "ULTRAPROMAX": {
     "Expiry": "1",
@@ -8183,6 +8211,20 @@
         "expirydate": "02-05-2026",
         "key": "GEOTB1J1GCAD",
         "user": "15739660540"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "0283c4733bcfede1",
+        "expirydate": "02-05-2026",
+        "key": "V7W4SZQ6QQ5Q",
+        "user": "Mithilesh Kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "096723981ab8d285",
+        "expirydate": "17-05-2026",
+        "key": "I9523F30IB1U",
+        "user": "Piyush kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
