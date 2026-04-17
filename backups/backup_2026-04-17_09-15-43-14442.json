@@ -284,7 +284,7 @@
       {
         "Allowoffline": true,
         "device_id": "487ac1e654d17564",
-        "expirydate": "07-04-2026",
+        "expirydate": "02-05-2026",
         "key": "E4D77G6H",
         "user": "raushan Kumar"
       },
@@ -1313,7 +1313,7 @@
       {
         "Allowoffline": true,
         "device_id": "8c7d42d348dc7f60",
-        "expirydate": "17-04-2026",
+        "expirydate": "03-05-2026",
         "key": "9V7TGD8D8A4J",
         "user": "Sukhdew singh"
       },
@@ -1717,9 +1717,9 @@
         "user": "R p"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "6da65b848ef9101b",
-        "expirydate": "01-04-2026",
+        "expirydate": "03-05-2026",
         "key": "4FTFPTZKVL3V",
         "user": "jayprakash Kumar"
       },
@@ -3832,7 +3832,7 @@
       },
       {
         "Allowoffline": false,
-        "device_id": "695f20f1a87f56b5",
+        "device_id": "d2f058da64069eb6",
         "expirydate": "28-04-2026",
         "key": "HBZAA2M7PVSZ",
         "user": "Dilip akela"
@@ -4438,6 +4438,34 @@
         "expirydate": "03-05-2026",
         "key": "409857KCBWQ9",
         "user": "pk yadav"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "610bd8464b0c85da",
+        "expirydate": "03-05-2026",
+        "key": "NVWNKD2UEZ29",
+        "user": "Samar Raj"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "b191dfcdca3e8d69",
+        "expirydate": "03-05-2026",
+        "key": "CJ226GHQE0HE",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "0291dea63d9dca21",
+        "expirydate": "18-05-2026",
+        "key": "0106H7Y3DFQ4",
+        "user": "Ratnesh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "de794875a8f4476b",
+        "expirydate": "03-05-2026",
+        "key": "J8SQL79O0CV8",
+        "user": "Ranjan kumar naik"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6073,7 +6101,7 @@
       {
         "Allowoffline": true,
         "device_id": "5ff9ee5b517263e5",
-        "expirydate": "17-04-2026",
+        "expirydate": "03-05-2026",
         "key": "S5U0M447FIB5",
         "user": "Shukla computer"
       },
@@ -6647,7 +6675,7 @@
       {
         "Allowoffline": true,
         "device_id": "4404f4a5066edf77",
-        "expirydate": "17-04-2026",
+        "expirydate": "03-05-2026",
         "key": "Hari",
         "user": "Ram boy"
       },
@@ -7325,13 +7353,6 @@
       },
       {
         "Allowoffline": true,
-        "device_id": "7e6a688e25f73723",
-        "expirydate": "09-04-2026",
-        "key": "DesOP",
-        "user": "Op DESKTOP"
-      },
-      {
-        "Allowoffline": true,
         "device_id": "4f22564e66a437dd",
         "expirydate": "09-05-2026",
         "key": "FKH0IP3YC58S",
@@ -7830,7 +7851,7 @@
       {
         "Allowoffline": true,
         "device_id": "6e1d936d223e1ec2",
-        "expirydate": "13-05-2026",
+        "expirydate": "13-05-20",
         "key": "R404WEXQCXC7",
         "user": "Ajit singh"
       },
@@ -8295,6 +8316,20 @@
         "expirydate": "03-05-2026",
         "key": "M477KS7OYYG1",
         "user": "Ramanjee yadav"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "f55487db62f8f91d",
+        "expirydate": "13-05-2026",
+        "key": "GRWUVYCCKZFL",
+        "user": "Ajit singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "fb00d26a97580ed4",
+        "expirydate": "03-05-2026",
+        "key": "4OK4IM5J88GH",
+        "user": "Aakash Singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
