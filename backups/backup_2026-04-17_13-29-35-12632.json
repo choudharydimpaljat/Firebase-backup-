@@ -767,7 +767,7 @@
       {
         "Allowoffline": false,
         "device_id": "d4f9c50b3a878ca5",
-        "expirydate": "15-04-2026",
+        "expirydate": "25-04-2026",
         "key": "NJA14Y6UOLZP",
         "user": "satish"
       },
@@ -1866,7 +1866,7 @@
       {
         "Allowoffline": true,
         "device_id": "727cf48d3795b319",
-        "expirydate": "15-04-2026",
+        "expirydate": "03-05-2026",
         "key": "6ATUX1WTYQLL",
         "user": "Kallu"
       },
@@ -4308,9 +4308,9 @@
       },
       {
         "Allowoffline": true,
-        "device_id": "d0f195746dbc2a9f",
+        "device_id": "7e3d33a025fd2b36",
         "expirydate": "02-05-2026",
-        "key": "8Y8B8AEKM6EF",
+        "key": "JQOM9RABF096",
         "user": "Ram ram"
       },
       {
@@ -4473,6 +4473,69 @@
         "expirydate": "03-05-2026",
         "key": "J8SQL79O0CV8",
         "user": "Ranjan kumar naik"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "2bb251ba6efc2f54",
+        "expirydate": "03-05-2026",
+        "key": "CPRY77GJ3JK6",
+        "user": "Deepak"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "5e37c04402d36279",
+        "expirydate": "03-05-2026",
+        "key": "5HIUSMUH9K9C",
+        "user": "Prabhjot Singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "67c87e261c19f373",
+        "expirydate": "18-05-2026",
+        "key": "NDW9ISMHORAG",
+        "user": "Muzaffar iqbal"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "f7dbcf834fc01a15",
+        "expirydate": "18-05-2026",
+        "key": "JS5N35YNTGIL",
+        "user": "bobby raja"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "95bdcaa1c5f5319d",
+        "expirydate": "03-05-2026",
+        "key": "RQWO1FPB6KIE",
+        "user": "pranav singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "7e2b33b546c6804e",
+        "expirydate": "03-05-2026",
+        "key": "Q6EIZQY03IVV",
+        "user": "pawan kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "a91998cbf2494077",
+        "expirydate": "03-05-2026",
+        "key": "N98VXVVM2Y93",
+        "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "ad6326cc5f2028c1",
+        "expirydate": "03-05-2026",
+        "key": "R69JCJUJUDL2",
+        "user": "Pradhan saliya"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "539450133c7ffb1a",
+        "expirydate": "18-05-2026",
+        "key": "8L4P1PU75VNL",
+        "user": "Raj"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -5891,7 +5954,7 @@
       {
         "Allowoffline": true,
         "device_id": "008d3e8ac4f4782b",
-        "expirydate": "17-04-2026",
+        "expirydate": "03-05-2026",
         "key": "7VFP2YDKHNQE",
         "user": "Ajay"
       },
@@ -7049,6 +7112,20 @@
         "expirydate": "16-05-2026",
         "key": "GIPQZH2Z5NWF",
         "user": "Yelaka Rajasekhar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "0c46c2922ec0f564",
+        "expirydate": "18-05-2026",
+        "key": "AD3LMUG5QNQ8",
+        "user": "Arvind Meena"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "6e786f05db2059ee",
+        "expirydate": "03-05-2026",
+        "key": "TAUKKRAP2SIC",
+        "user": "Gp singh"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -8337,6 +8414,20 @@
         "expirydate": "03-05-2026",
         "key": "4OK4IM5J88GH",
         "user": "Aakash Singh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "04bf62c6e4d17bc5",
+        "expirydate": "18-05-2026",
+        "key": "1WQFKYFYXN66",
+        "user": "Pappu Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "6e786f05db2059ee",
+        "expirydate": "18-05-2026",
+        "key": "XY0KQ2MG2A39",
+        "user": "Gp singh madardi"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
