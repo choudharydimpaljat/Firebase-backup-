@@ -4308,9 +4308,9 @@
       },
       {
         "Allowoffline": true,
-        "device_id": "d0f195746dbc2a9f",
+        "device_id": "7e3d33a025fd2b36",
         "expirydate": "02-05-2026",
-        "key": "8Y8B8AEKM6EF",
+        "key": "JQOM9RABF096",
         "user": "Ram ram"
       },
       {
@@ -4522,6 +4522,34 @@
         "expirydate": "03-05-2026",
         "key": "N98VXVVM2Y93",
         "user": "Alok kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "ad6326cc5f2028c1",
+        "expirydate": "03-05-2026",
+        "key": "R69JCJUJUDL2",
+        "user": "Pradhan saliya"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "539450133c7ffb1a",
+        "expirydate": "18-05-2026",
+        "key": "8L4P1PU75VNL",
+        "user": "Raj"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "b03835a8ecf368a2",
+        "expirydate": "03-05-2026",
+        "key": "100Y3E3ZFHM3",
+        "user": "Akash Singh"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "35080a066d0279f9",
+        "expirydate": "03-05-2026",
+        "key": "LQPC0AO9P450",
+        "user": "Anand kumar"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -7261,9 +7289,9 @@
         "user": "Dil khush khan"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "a9f845543df92e6d",
-        "expirydate": "18-04-2026",
+        "expirydate": "03-05-2026",
         "key": "RNTM61ATV4DJ",
         "user": "Naveen Kumar"
       },
@@ -8414,6 +8442,20 @@
         "expirydate": "18-05-2026",
         "key": "XY0KQ2MG2A39",
         "user": "Gp singh madardi"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "dab08103dd81d3ae",
+        "expirydate": "18-05-2026",
+        "key": "0PN5NK3PGX2C",
+        "user": "Sarvesh kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "f073cefea4900111",
+        "expirydate": "03-05-2026",
+        "key": "5C3IO71N3HLR",
+        "user": "Konsa prajnan"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
