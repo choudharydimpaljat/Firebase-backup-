@@ -137,14 +137,14 @@
       {
         "Allowoffline": false,
         "device_id": "db90a93e923313b9",
-        "expirydate": "04-04-2026",
+        "expirydate": "03-05-2026",
         "key": "K3TIU02Y50MP",
         "user": "Gaya lal yadav"
       },
       {
         "Allowoffline": false,
         "device_id": "b3a2e78db97c7521",
-        "expirydate": "04-04-2026",
+        "expirydate": "03-05-2026",
         "key": "WV16BKINC5ZU",
         "user": "Apendra gurjar"
       },
@@ -4599,6 +4599,48 @@
         "expirydate": "18-05-2026",
         "key": "8BKR1IAM4GQH",
         "user": "S k"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "112c1ea13248965a",
+        "expirydate": "18-05-2026",
+        "key": "E9BH6YDRIMDO",
+        "user": "Indrajeetverama"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "ffb90dcd63951d53",
+        "expirydate": "18-05-2026",
+        "key": "ZVIT5EYBFTKE",
+        "user": "Ratnesh"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "bfcc73ac8ac54bdf",
+        "expirydate": "18-04-2026",
+        "key": "222E3Y1JXUBT",
+        "user": "Zaheer Ahmad"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "d666d00645e7a60c",
+        "expirydate": "03-05-2026",
+        "key": "43SHC5A3ZN72",
+        "user": "Good night"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "2121ff06ef280cb6",
+        "expirydate": "03-05-2026",
+        "key": "F76TXY9TGEIG",
+        "user": "Deepak Kumar"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "fdcca4739b1c52ac",
+        "expirydate": "03-05-2026",
+        "key": "IVO6K21S512L",
+        "user": "Syma parween"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -8488,7 +8530,7 @@
       {
         "Allowoffline": false,
         "device_id": "6e786f05db2059ee",
-        "expirydate": "18-05-2026",
+        "expirydate": "03-05-2026",
         "key": "XY0KQ2MG2A39",
         "user": "Gp singh madardi"
       },
@@ -8533,6 +8575,20 @@
         "expirydate": "03-05-2026",
         "key": "R5AFGW6QQEY9",
         "user": "Mithilesh Kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "f3ed5c0dcbf6cb48",
+        "expirydate": "18-05-2026",
+        "key": "7GP4LQ7MT7HQ",
+        "user": "Kapil"
+      },
+      {
+        "Allowoffline": false,
+        "device_id": "ae3714d71166e061",
+        "expirydate": "03-05-2026",
+        "key": "HFPXAV1N7SRQ",
+        "user": "Hariom arya"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
