@@ -109,7 +109,7 @@
       {
         "Allowoffline": true,
         "device_id": "cd09fb6c30ffa77e",
-        "expirydate": "19-04-2026",
+        "expirydate": "24-04-2026",
         "key": "E68QYVVFXLTN",
         "user": "Nmms"
       },
@@ -2053,9 +2053,9 @@
         "user": "Prateek singh"
       },
       {
-        "Allowoffline": false,
+        "Allowoffline": true,
         "device_id": "0997d443a7d6269f",
-        "expirydate": "01-04-2026",
+        "expirydate": "05-05-2026",
         "key": "R7U5LAQ0YQ3K",
         "user": "Dharmendra Kumar"
       },
@@ -4872,6 +4872,27 @@
         "expirydate": "05-05-2026",
         "key": "WCI1UJG7YK5B",
         "user": "Kundan"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "d73895f959cfd9ba",
+        "expirydate": "05-05-2026",
+        "key": "LT7J8AMHJ277",
+        "user": "Ap"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "42a86614ca40f530",
+        "expirydate": "05-05-2026",
+        "key": "CP641L2ETLGG",
+        "user": "Alex aman"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "db1c4d86b23bef6d",
+        "expirydate": "20-05-2026",
+        "key": "NTT1GTJBU6T5",
+        "user": "Sk"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
@@ -6675,7 +6696,7 @@
       {
         "Allowoffline": true,
         "device_id": "dffd54673a4a9d23",
-        "expirydate": "19-04-2026",
+        "expirydate": "20-04-2026",
         "key": "YXFXKVC3N7KH",
         "user": "Indraj Patel"
       },
@@ -8939,6 +8960,41 @@
         "expirydate": "05-05-2026",
         "key": "FSFBC5OH3XA9",
         "user": "Syqma parveen"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "e0c0b4e1e85db321",
+        "expirydate": "20-05-2026",
+        "key": "B9QAE4DM8YES",
+        "user": "Chinu"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "4609cf89c817f2f3",
+        "expirydate": "05-05-2026",
+        "key": "6M4Q35CVW6XK",
+        "user": "Jay Bhagwati"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "e038db5f4fcac375",
+        "expirydate": "05-05-2026",
+        "key": "4RUHTTOI2TJY",
+        "user": "Prakash sirohi"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "a70574e0e76bc250",
+        "expirydate": "20-05-2026",
+        "key": "CXC2D65XM4AT",
+        "user": "Sunder kumar"
+      },
+      {
+        "Allowoffline": true,
+        "device_id": "0e04a2114202e689",
+        "expirydate": "19-05-2026",
+        "key": "RV6O05Y57ZP6",
+        "user": "S"
       }
     ],
     "telegram": "https://t.me/nmmsmod",
